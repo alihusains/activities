@@ -28,4 +28,10 @@
 
 ## Challenges & Solutions
 - **Dynamic Content**: GitHub Pages is static. **Solution**: The `metadata.json` generated at build time serves as our "database".
-- **Download Directory**: Browsers can't download folders. **Solution**: The GH Action will also create individual zips for each top-level directory and attach them to the release, or we point the "Download Directory" button to a script-generated zip path if hosted on LFS/Assets. Better yet, point to the GitHub Release assets which are permanent URLs.
+- **Download Directory**: Browsers can't download folders. **Solution**: The GH Action generates individual ZIP archives for each top-level category and uploads them to the "latest" release. The frontend dynamically links the "Download Folder" button to these release assets.
+- **Large File Handling**: Files >20MB are served via `raw.githubusercontent.com`, while smaller files use the standard GitHub Pages CDN for better performance.
+
+## Visual Identity
+- **Theme**: Dark Mode (Glassmorphism)
+- **Typography**: Bebas Neue (Headings), Plus Jakarta Sans (Body)
+- **Previews**: PDF.js renders the first page of each document directly in the browser as a preview thumbnail.
