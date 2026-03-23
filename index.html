@@ -79,17 +79,17 @@
     </nav>
 
     <main class="pt-48 pb-24 px-8 max-w-[1600px] mx-auto">
-        <!-- Section Header -->
-        <div id="folder-header" class="mb-16 flex justify-between items-start">
-            <div>
-                <h2 id="current-folder-name" class="bebas text-8xl md:text-[10rem] leading-none mb-6">LIBRARY</h2>
-                <p id="folder-stats" class="text-neutral-500 text-xs uppercase tracking-[0.3em] font-bold"></p>
+            <!-- Section Header -->
+            <div id="folder-header" class="mb-16 flex justify-between items-start">
+                <div>
+                    <h2 id="current-folder-name" class="bebas text-8xl md:text-[10rem] leading-none mb-6">LIBRARY</h2>
+                    <p id="folder-stats" class="text-neutral-500 text-xs uppercase tracking-[0.3em] font-bold"></p>
+                </div>
+                <a id="download-folder-btn" href="#" class="hidden group bg-[#111111] border border-white/10 px-8 py-4 rounded-lg hover:bg-white hover:text-black transition-all duration-300 flex items-center gap-4">
+                    <span class="text-[10px] font-bold uppercase tracking-[0.2em]">Download Folder</span>
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                </a>
             </div>
-            <button id="download-folder-btn" class="hidden group bg-[#111111] border border-white/10 px-8 py-4 rounded-lg hover:bg-white hover:text-black transition-all duration-300 flex items-center gap-4">
-                <span class="text-[10px] font-bold uppercase tracking-[0.2em]">Download Folder</span>
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
-            </button>
-        </div>
 
         <!-- Grid -->
         <div id="content-grid" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-12">
@@ -185,26 +185,13 @@
                     .replace(/[^a-z0-9]+/g, '-')
                     .replace(/^-+|-+$/g, '') + '.zip';
 
-                downloadFolderBtn.onclick = (e) => {
-                    e.preventDefault();
-                    const btnText = downloadFolderBtn.querySelector('span');
-                    const originalText = btnText.innerText;
-                    btnText.innerText = 'Requesting...';
+                const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/latest/${zipName}`;
+                downloadFolderBtn.href = url;
+                downloadFolderBtn.setAttribute('download', zipName);
 
-                    const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/latest/${zipName}`;
-                    console.log(`Triggering download for: ${url}`);
-
-                    const link = document.createElement('a');
-                    link.href = url;
-                    link.setAttribute('download', zipName);
-                    link.style.display = 'none';
-                    document.body.appendChild(link);
-                    link.click();
-
-                    setTimeout(() => {
-                        document.body.removeChild(link);
-                        btnText.innerText = originalText;
-                    }, 2000);
+                // Add a simple console log for debugging
+                downloadFolderBtn.onclick = () => {
+                    console.log(`Navigating to: ${url}`);
                 };
             } else {
                 downloadFolderBtn.classList.add('hidden');
