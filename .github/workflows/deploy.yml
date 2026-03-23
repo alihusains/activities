@@ -8,6 +8,11 @@ on:
     tags:
       - 'v*'
 
+# Prevent parallel runs from conflicting on the "latest" release
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref_name }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
   pages: write
@@ -33,27 +38,29 @@ jobs:
       - name: Zip Folder Structure
         run: |
           # Create individual zips for top-level folders
-          # This assumes users want to download folders like "4-7 years"
+          # Replace non-alphanumeric characters with hyphens for cleaner zip names
           for d in */; do
             if [ -d "$d" ] && [ "$d" != ".github/" ] && [ "$d" != ".git/" ]; then
               folder_name=$(basename "$d")
-              zip_name=$(echo "$folder_name" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g').zip
+              # Clean zip name: lowercase, replace spaces & symbols with single hyphens, trim hyphens
+              clean_name=$(echo "$folder_name" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g' | sed -E 's/^-+|-+$//g')
+              zip_name="${clean_name}.zip"
               zip -r "$zip_name" "$d" -x "*.DS_Store"
             fi
           done
 
-      - name: Create Release and Upload Assets
-        uses: softprops/action-gh-release@v1
+      - name: Create or Update Release
+        uses: ncipollo/release-action@v1
         with:
-          files: |
-            *.zip
-          tag_name: ${{ github.ref_type == 'tag' && github.ref_name || 'latest' }}
+          artifacts: "*.zip"
+          tag: ${{ github.ref_type == 'tag' && github.ref_name || 'latest' }}
           name: ${{ github.ref_type == 'tag' && github.ref_name || 'Latest Release' }}
           body: "Automatic update of library assets and folder archives."
-          draft: false
-          prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          allowUpdates: true
+          removeArtifacts: true
+          replacesArtifacts: true
+          makeLatest: ${{ github.ref_type == 'tag' && 'true' || 'false' }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

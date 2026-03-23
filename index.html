@@ -205,8 +205,12 @@
             // Download Folder Button
             if (currentPath.length > 0) {
                 downloadFolderBtn.classList.remove('hidden');
-                // Construct zip name based on current folder
-                const zipName = currentPath[currentPath.length - 1].toLowerCase().replace(/\s+/g, '-') + '.zip';
+                // Construct zip name based on current folder (must match the workflow cleaning logic)
+                const folderName = currentPath[currentPath.length - 1];
+                const zipName = folderName.toLowerCase()
+                    .replace(/[^a-z0-9]+/g, '-')
+                    .replace(/^-+|-+$/g, '') + '.zip';
+
                 downloadFolderBtn.onclick = () => {
                     window.location.href = `https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/latest/${zipName}`;
                 };
