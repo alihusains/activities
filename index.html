@@ -119,15 +119,9 @@
         let libraryData = null;
         let currentPath = [];
 
-        // Dynamic detection with robust fallbacks for alihusains/activities
-        const REPO_OWNER = window.location.hostname.includes('github.io')
-            ? window.location.hostname.split('.')[0]
-            : 'alihusains';
-        const REPO_NAME = (window.location.pathname.split('/')[1] && window.location.pathname.split('/')[1] !== 'index.html')
-            ? window.location.pathname.split('/')[1]
-            : 'activities';
-
-        console.log(`Configured for: ${REPO_OWNER}/${REPO_NAME}`);
+        // Hardcoded for alihusains/activities as requested for production readiness
+        const REPO_OWNER = 'alihusains';
+        const REPO_NAME = 'activities';
 
         async function init() {
             try {
