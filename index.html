@@ -185,9 +185,23 @@
 
             if (currentPath.length > 0) {
                 downloadFolderBtn.classList.remove('hidden');
-                const zipName = currentPath[currentPath.length - 1].toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') + '.zip';
-                downloadFolderBtn.onclick = () => {
-                    window.location.href = `https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/latest/${zipName}`;
+                const folderName = currentPath[currentPath.length - 1];
+                const zipName = folderName.toLowerCase()
+                    .replace(/[^a-z0-9]+/g, '-')
+                    .replace(/^-+|-+$/g, '') + '.zip';
+
+                downloadFolderBtn.onclick = (e) => {
+                    e.preventDefault();
+                    const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/latest/${zipName}`;
+                    console.log(`Triggering download for: ${url}`);
+
+                    const link = document.createElement('a');
+                    link.href = url;
+                    link.setAttribute('download', zipName);
+                    link.style.display = 'none';
+                    document.body.appendChild(link);
+                    link.click();
+                    setTimeout(() => document.body.removeChild(link), 100);
                 };
             } else {
                 downloadFolderBtn.classList.add('hidden');
