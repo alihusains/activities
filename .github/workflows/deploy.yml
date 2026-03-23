@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - master # Handle both common main branch names
+      - master
 
 permissions:
   contents: write
@@ -28,17 +28,30 @@ jobs:
       - name: Generate metadata.json
         run: python3 generate_metadata.py
 
-      - name: Zip repository contents
+      - name: Zip Folder Structure
         run: |
-          zip -r activity-books-full.zip . -x "*.git*" "*.github*" "generate_metadata.py" "task_plan.md" "findings.md" "progress.md" ".DS_Store"
+          # Zip the entire repo
+          zip -r activity-books-full.zip . -x "*.git*" "*.github*" "generate_metadata.py" "task_plan.md" "findings.md" "progress.md" ".DS_Store" "node_modules/*"
 
-      - name: Create Release and Upload Asset
+          # Create individual zips for top-level folders
+          # This assumes users want to download folders like "4-7 years"
+          for d in */; do
+            if [ -d "$d" ] && [ "$d" != ".github/" ] && [ "$d" != ".git/" ]; then
+              folder_name=$(basename "$d")
+              zip_name=$(echo "$folder_name" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g').zip
+              zip -r "$zip_name" "$d" -x "*.DS_Store"
+            fi
+          done
+
+      - name: Create Release and Upload Assets
         uses: softprops/action-gh-release@v1
         with:
-          files: activity-books-full.zip
+          files: |
+            activity-books-full.zip
+            *.zip
           tag_name: latest
           name: Latest Release
-          body: "Automatic update of all activity books and directory structure."
+          body: "Automatic update of library assets and folder archives."
           draft: false
           prerelease: false
         env:
@@ -50,7 +63,6 @@ jobs:
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload everything including index.html and metadata.json
           path: '.'
 
       - name: Deploy to GitHub Pages

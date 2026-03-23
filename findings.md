@@ -4,7 +4,6 @@
 - Create a high-quality GitHub Pages site to browse and download activity books (PDFs).
 - Automate zipping and releasing the entire directory structure on every push.
 - Provide "Download All" (latest zip) and individual file/directory downloads.
-- Custom footer: "Iltemase Dua".
 
 ## Technical Strategy
 - **Frontend**: Single Page Application (SPA) using React or pure HTML/JS + Tailwind CSS for a "Refined/Editorial" look.
