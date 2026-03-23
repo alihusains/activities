@@ -1061,38 +1061,38 @@
       ]
     },
     {
-      "name": "Interfaith & RE for Schools Publications",
+      "name": "Interfaith for Schools Publications",
       "type": "directory",
-      "path": "./Interfaith & RE for Schools Publications",
+      "path": "./Interfaith for Schools Publications",
       "contents": [
         {
           "name": "Interfaith-Dialogue-Ahtiname-Scroll.pdf",
           "type": "file",
-          "path": "./Interfaith & RE for Schools Publications/Interfaith-Dialogue-Ahtiname-Scroll.pdf",
+          "path": "./Interfaith for Schools Publications/Interfaith-Dialogue-Ahtiname-Scroll.pdf",
           "size": 155093
         },
         {
           "name": "Interfaith-Dialogue-Comparative-Religions.pdf",
           "type": "file",
-          "path": "./Interfaith & RE for Schools Publications/Interfaith-Dialogue-Comparative-Religions.pdf",
+          "path": "./Interfaith for Schools Publications/Interfaith-Dialogue-Comparative-Religions.pdf",
           "size": 483711
         },
         {
           "name": "Interfaith-Dialogue-Schools-of-Islam-Thoughts.pdf",
           "type": "file",
-          "path": "./Interfaith & RE for Schools Publications/Interfaith-Dialogue-Schools-of-Islam-Thoughts.pdf",
+          "path": "./Interfaith for Schools Publications/Interfaith-Dialogue-Schools-of-Islam-Thoughts.pdf",
           "size": 1020348
         },
         {
           "name": "RE-for-Schools-Infants_Upload_AA172-v1_May2020.pdf",
           "type": "file",
-          "path": "./Interfaith & RE for Schools Publications/RE-for-Schools-Infants_Upload_AA172-v1_May2020.pdf",
+          "path": "./Interfaith for Schools Publications/RE-for-Schools-Infants_Upload_AA172-v1_May2020.pdf",
           "size": 3293786
         },
         {
           "name": "RE-for-Schools-Juniors_Upload_AA173-v1_May2020.pdf",
           "type": "file",
-          "path": "./Interfaith & RE for Schools Publications/RE-for-Schools-Juniors_Upload_AA173-v1_May2020.pdf",
+          "path": "./Interfaith for Schools Publications/RE-for-Schools-Juniors_Upload_AA173-v1_May2020.pdf",
           "size": 3568155
         }
       ]
