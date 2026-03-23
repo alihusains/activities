@@ -5,6 +5,8 @@ on:
     branches:
       - main
       - master
+    tags:
+      - 'v*'
 
 permissions:
   contents: write
@@ -45,8 +47,8 @@ jobs:
         with:
           files: |
             *.zip
-          tag_name: latest
-          name: Latest Release
+          tag_name: ${{ github.ref_type == 'tag' && github.ref_name || 'latest' }}
+          name: ${{ github.ref_type == 'tag' && github.ref_name || 'Latest Release' }}
           body: "Automatic update of library assets and folder archives."
           draft: false
           prerelease: false
