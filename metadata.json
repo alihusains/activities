@@ -1,973 +1,3713 @@
 {
-  "title": "Activity Books",
-  "description": "Educational activity books for all ages.",
-  "last_updated": null,
-  "files": [
+  "name": "Activity Books",
+  "type": "directory",
+  "path": "",
+  "contents": [
     {
       "name": "4-7 years",
       "type": "directory",
+      "path": "./4-7 years",
       "contents": [
         {
           "name": "All_about_My_Prophet_Upload_AA41-v2_Oct22.pdf",
           "type": "file",
-          "size": 5269333,
-          "path": "4-7 years/All_about_My_Prophet_Upload_AA41-v2_Oct22.pdf"
+          "path": "./4-7 years/All_about_My_Prophet_Upload_AA41-v2_Oct22.pdf",
+          "size": 5269333
+        },
+        {
+          "name": "CALENDAR RESOURCES ",
+          "type": "directory",
+          "path": "./4-7 years/CALENDAR RESOURCES ",
+          "contents": [
+            {
+              "name": "Infants_Hajj_Workbook_Upload_AA99-v1_May2020..pdf",
+              "type": "file",
+              "path": "./4-7 years/CALENDAR RESOURCES /Infants_Hajj_Workbook_Upload_AA99-v1_May2020..pdf",
+              "size": 2345703
+            },
+            {
+              "name": "kaba.pdf",
+              "type": "file",
+              "path": "./4-7 years/CALENDAR RESOURCES /kaba.pdf",
+              "size": 362843
+            }
+          ]
+        },
+        {
+          "name": "CROSS CURRICULAR RESOURCES ",
+          "type": "directory",
+          "path": "./4-7 years/CROSS CURRICULAR RESOURCES ",
+          "contents": [
+            {
+              "name": "Excellent_Stories_Upload_AA81-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/CROSS CURRICULAR RESOURCES /Excellent_Stories_Upload_AA81-v1_May2020.pdf",
+              "size": 14908093
+            },
+            {
+              "name": "Learning-Islam-for-Infants_Sample-Worksheets_Upload_AA115-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/CROSS CURRICULAR RESOURCES /Learning-Islam-for-Infants_Sample-Worksheets_Upload_AA115-v1_May2020.pdf",
+              "size": 14657099
+            },
+            {
+              "name": "Learning-Islam-for-Infants_Upload_AA114-v3_Sep2024.pdf",
+              "type": "file",
+              "path": "./4-7 years/CROSS CURRICULAR RESOURCES /Learning-Islam-for-Infants_Upload_AA114-v3_Sep2024.pdf",
+              "size": 38324313
+            },
+            {
+              "name": "Preschool_Workbook-Nov21.pdf",
+              "type": "file",
+              "path": "./4-7 years/CROSS CURRICULAR RESOURCES /Preschool_Workbook-Nov21.pdf",
+              "size": 5422559
+            },
+            {
+              "name": "Qaswa_wants_to_be_Zebcam_Upload_AA227-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/CROSS CURRICULAR RESOURCES /Qaswa_wants_to_be_Zebcam_Upload_AA227-v1_May2020.pdf",
+              "size": 11917434
+            },
+            {
+              "name": "Rhymes_for_Muslim_Children_Upload_AA175-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/CROSS CURRICULAR RESOURCES /Rhymes_for_Muslim_Children_Upload_AA175-v1_May2020.pdf",
+              "size": 7792710
+            }
+          ]
+        },
+        {
+          "name": "DUA RESOURCES",
+          "type": "directory",
+          "path": "./4-7 years/DUA RESOURCES",
+          "contents": [
+            {
+              "name": "Daily-Ziyara.pdf",
+              "type": "file",
+              "path": "./4-7 years/DUA RESOURCES/Daily-Ziyara.pdf",
+              "size": 1001838
+            },
+            {
+              "name": "My_Dua_Workbook_Upload_AA232-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/DUA RESOURCES/My_Dua_Workbook_Upload_AA232-v1_May2020.pdf",
+              "size": 1365627
+            }
+          ]
         },
         {
           "name": "Excellent_Stories_Upload_AA81-v1_May2020.pdf",
           "type": "file",
-          "size": 14908093,
-          "path": "4-7 years/Excellent_Stories_Upload_AA81-v1_May2020.pdf"
+          "path": "./4-7 years/Excellent_Stories_Upload_AA81-v1_May2020.pdf",
+          "size": 14908093
         },
         {
           "name": "Infants_Hajj_Workbook_Upload_AA99-v1_May2020..pdf",
           "type": "file",
-          "size": 2345703,
-          "path": "4-7 years/Infants_Hajj_Workbook_Upload_AA99-v1_May2020..pdf"
+          "path": "./4-7 years/Infants_Hajj_Workbook_Upload_AA99-v1_May2020..pdf",
+          "size": 2345703
+        },
+        {
+          "name": "JURISPRUDENCE RESOURCES",
+          "type": "directory",
+          "path": "./4-7 years/JURISPRUDENCE RESOURCES",
+          "contents": [
+            {
+              "name": "My-Wudhu-Chart.pdf",
+              "type": "file",
+              "path": "./4-7 years/JURISPRUDENCE RESOURCES/My-Wudhu-Chart.pdf",
+              "size": 989127
+            }
+          ]
         },
         {
           "name": "My-Ziyara-Workbook-to-Iraq_Upload_AA142-v1_May2020.pdf",
           "type": "file",
-          "size": 6562519,
-          "path": "4-7 years/My-Ziyara-Workbook-to-Iraq_Upload_AA142-v1_May2020.pdf"
+          "path": "./4-7 years/My-Ziyara-Workbook-to-Iraq_Upload_AA142-v1_May2020.pdf",
+          "size": 6562519
+        },
+        {
+          "name": "PEOPLE RESOURCES ",
+          "type": "directory",
+          "path": "./4-7 years/PEOPLE RESOURCES ",
+          "contents": [
+            {
+              "name": "All_about_My_Prophet_Upload_AA41-v2_Oct22.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /All_about_My_Prophet_Upload_AA41-v2_Oct22.pdf",
+              "size": 5269333
+            },
+            {
+              "name": "H-Abbas-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /H-Abbas-Worksheet.pdf",
+              "size": 7072144
+            },
+            {
+              "name": "Hadith-Kisaa-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Hadith-Kisaa-Worksheet.pdf",
+              "size": 1602313
+            },
+            {
+              "name": "Imam-Ali-1-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Ali-1-Worksheet.pdf",
+              "size": 6602057
+            },
+            {
+              "name": "Imam-Baqir-5-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Baqir-5-Worksheet.pdf",
+              "size": 1479446
+            },
+            {
+              "name": "Imam-Haadi-10-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Haadi-10-Worksheet.pdf",
+              "size": 4750084
+            },
+            {
+              "name": "Imam-Hasan-2-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Hasan-2-Worksheet.pdf",
+              "size": 8360102
+            },
+            {
+              "name": "Imam-Hasan-Askery-11-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Hasan-Askery-11-Worksheet.pdf",
+              "size": 4219389
+            },
+            {
+              "name": "Imam-Husayn-3-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Husayn-3-Worksheet.pdf",
+              "size": 9397792
+            },
+            {
+              "name": "Imam-Jawad-9-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Jawad-9-Worksheet.pdf",
+              "size": 4402700
+            },
+            {
+              "name": "Imam-Kadhim-7-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Kadhim-7-Worksheet.pdf",
+              "size": 2719137
+            },
+            {
+              "name": "Imam-Mahdi-12-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Mahdi-12-Worksheet.pdf",
+              "size": 8608179
+            },
+            {
+              "name": "Imam-Ridha-8-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Ridha-8-Worksheet.pdf",
+              "size": 2865366
+            },
+            {
+              "name": "Imam-Sadiq-6-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Sadiq-6-Worksheet.pdf",
+              "size": 4589430
+            },
+            {
+              "name": "Imam-Sajjad-4-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Imam-Sajjad-4-Worksheet.pdf",
+              "size": 4841497
+            },
+            {
+              "name": "Prophet-Muhammad-M-Worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Prophet-Muhammad-M-Worksheet.pdf",
+              "size": 362003
+            },
+            {
+              "name": "Qaswas_Journey_Upload_AA164-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Qaswas_Journey_Upload_AA164-v1_May2020.pdf",
+              "size": 4715894
+            },
+            {
+              "name": "Sayyida-Fatima-F-worksheet.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Sayyida-Fatima-F-worksheet.pdf",
+              "size": 707410
+            },
+            {
+              "name": "Sayyida-Fatima-pbuh-Poster.pdf",
+              "type": "file",
+              "path": "./4-7 years/PEOPLE RESOURCES /Sayyida-Fatima-pbuh-Poster.pdf",
+              "size": 477209
+            }
+          ]
         },
         {
           "name": "Q-City_Qaswa-visits-068-Qalam_AA20-v1_Mar2023.pdf",
           "type": "file",
-          "size": 8003093,
-          "path": "4-7 years/Q-City_Qaswa-visits-068-Qalam_AA20-v1_Mar2023.pdf"
+          "path": "./4-7 years/Q-City_Qaswa-visits-068-Qalam_AA20-v1_Mar2023.pdf",
+          "size": 8003093
         },
         {
           "name": "Q-City_Qaswa-visits-Birr-Window_Upload_AA5-v1_May2020.pdf",
           "type": "file",
-          "size": 14188246,
-          "path": "4-7 years/Q-City_Qaswa-visits-Birr-Window_Upload_AA5-v1_May2020.pdf"
+          "path": "./4-7 years/Q-City_Qaswa-visits-Birr-Window_Upload_AA5-v1_May2020.pdf",
+          "size": 14188246
         },
         {
           "name": "Q-City_Qaswa_visits_001_Suratul-Fatiha_Upload_AA1-v2_Sep2024.pdf",
           "type": "file",
-          "size": 6391048,
-          "path": "4-7 years/Q-City_Qaswa_visits_001_Suratul-Fatiha_Upload_AA1-v2_Sep2024.pdf"
+          "path": "./4-7 years/Q-City_Qaswa_visits_001_Suratul-Fatiha_Upload_AA1-v2_Sep2024.pdf",
+          "size": 6391048
         },
         {
           "name": "Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf",
           "type": "file",
-          "size": 6717386,
-          "path": "4-7 years/Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf"
+          "path": "./4-7 years/Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf",
+          "size": 6717386
         },
         {
           "name": "Q-City_Qaswa_visits_108_Suratul-Kawthar_Upload_AA33-v1_May2020.pdf",
           "type": "file",
-          "size": 15523754,
-          "path": "4-7 years/Q-City_Qaswa_visits_108_Suratul-Kawthar_Upload_AA33-v1_May2020.pdf"
+          "path": "./4-7 years/Q-City_Qaswa_visits_108_Suratul-Kawthar_Upload_AA33-v1_May2020.pdf",
+          "size": 15523754
         },
         {
           "name": "Q-City_Qaswa_visits_112_Suratul-Ikhlas_Upload_AA34-v1_may2020.pdf",
           "type": "file",
-          "size": 13245295,
-          "path": "4-7 years/Q-City_Qaswa_visits_112_Suratul-Ikhlas_Upload_AA34-v1_may2020.pdf"
+          "path": "./4-7 years/Q-City_Qaswa_visits_112_Suratul-Ikhlas_Upload_AA34-v1_may2020.pdf",
+          "size": 13245295
         },
         {
           "name": "Q-Read1_Upload_AA155-V2_Apr22.pdf",
           "type": "file",
-          "size": 1608712,
-          "path": "4-7 years/Q-Read1_Upload_AA155-V2_Apr22.pdf"
+          "path": "./4-7 years/Q-Read1_Upload_AA155-V2_Apr22.pdf",
+          "size": 1608712
         },
         {
           "name": "Q-Read1_Workbook_Upload_AA156-v1_May2020.pdf",
           "type": "file",
-          "size": 1727014,
-          "path": "4-7 years/Q-Read1_Workbook_Upload_AA156-v1_May2020.pdf"
+          "path": "./4-7 years/Q-Read1_Workbook_Upload_AA156-v1_May2020.pdf",
+          "size": 1727014
+        },
+        {
+          "name": "QUR’AN APPRECIATION RESOURCES",
+          "type": "directory",
+          "path": "./4-7 years/QUR’AN APPRECIATION RESOURCES",
+          "contents": [
+            {
+              "name": "Q-City_Qaswa-visits-068-Qalam_AA20-v1_Mar2023.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN APPRECIATION RESOURCES/Q-City_Qaswa-visits-068-Qalam_AA20-v1_Mar2023.pdf",
+              "size": 8003093
+            },
+            {
+              "name": "Q-City_Qaswa-visits-Birr-Window_Upload_AA5-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN APPRECIATION RESOURCES/Q-City_Qaswa-visits-Birr-Window_Upload_AA5-v1_May2020.pdf",
+              "size": 14188246
+            },
+            {
+              "name": "Q-City_Qaswa_visits_001_Suratul-Fatiha_Upload_AA1-v2_Sep2024.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN APPRECIATION RESOURCES/Q-City_Qaswa_visits_001_Suratul-Fatiha_Upload_AA1-v2_Sep2024.pdf",
+              "size": 6391048
+            },
+            {
+              "name": "Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN APPRECIATION RESOURCES/Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf",
+              "size": 6717386
+            },
+            {
+              "name": "Q-City_Qaswa_visits_108_Suratul-Kawthar_Upload_AA33-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN APPRECIATION RESOURCES/Q-City_Qaswa_visits_108_Suratul-Kawthar_Upload_AA33-v1_May2020.pdf",
+              "size": 15523754
+            },
+            {
+              "name": "Q-City_Qaswa_visits_112_Suratul-Ikhlas_Upload_AA34-v1_may2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN APPRECIATION RESOURCES/Q-City_Qaswa_visits_112_Suratul-Ikhlas_Upload_AA34-v1_may2020.pdf",
+              "size": 13245295
+            }
+          ]
+        },
+        {
+          "name": "QUR’AN RECITATION RESOURCES ",
+          "type": "directory",
+          "path": "./4-7 years/QUR’AN RECITATION RESOURCES ",
+          "contents": [
+            {
+              "name": "Q-Read1_Upload_AA155-V2_Apr22.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN RECITATION RESOURCES /Q-Read1_Upload_AA155-V2_Apr22.pdf",
+              "size": 1608712
+            },
+            {
+              "name": "Q-Read1_Workbook_Upload_AA156-v1_May2020.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN RECITATION RESOURCES /Q-Read1_Workbook_Upload_AA156-v1_May2020.pdf",
+              "size": 1727014
+            },
+            {
+              "name": "Quran-Recitation-Record-Book_Upload_AA169-v2_Oct2024.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN RECITATION RESOURCES /Quran-Recitation-Record-Book_Upload_AA169-v2_Oct2024.pdf",
+              "size": 598305
+            },
+            {
+              "name": "Quran-Recitation-Rewards-Bookmark-V2.pdf",
+              "type": "file",
+              "path": "./4-7 years/QUR’AN RECITATION RESOURCES /Quran-Recitation-Rewards-Bookmark-V2.pdf",
+              "size": 283743
+            }
+          ]
         },
         {
           "name": "Qaswa_wants_to_be_Zebcam_Upload_AA227-v1_May2020.pdf",
           "type": "file",
-          "size": 11917434,
-          "path": "4-7 years/Qaswa_wants_to_be_Zebcam_Upload_AA227-v1_May2020.pdf"
+          "path": "./4-7 years/Qaswa_wants_to_be_Zebcam_Upload_AA227-v1_May2020.pdf",
+          "size": 11917434
         },
         {
           "name": "Qaswas_Journey_Upload_AA164-v1_May2020.pdf",
           "type": "file",
-          "size": 4715894,
-          "path": "4-7 years/Qaswas_Journey_Upload_AA164-v1_May2020.pdf"
+          "path": "./4-7 years/Qaswas_Journey_Upload_AA164-v1_May2020.pdf",
+          "size": 4715894
         },
         {
           "name": "Quran-Recitation-Record-Book_Upload_AA169-v2_Oct2024.pdf",
           "type": "file",
-          "size": 598305,
-          "path": "4-7 years/Quran-Recitation-Record-Book_Upload_AA169-v2_Oct2024.pdf"
+          "path": "./4-7 years/Quran-Recitation-Record-Book_Upload_AA169-v2_Oct2024.pdf",
+          "size": 598305
         },
         {
           "name": "Rhymes_for_Muslim_Children_Upload_AA175-v1_May2020.pdf",
           "type": "file",
-          "size": 7792710,
-          "path": "4-7 years/Rhymes_for_Muslim_Children_Upload_AA175-v1_May2020.pdf"
-        }
-      ]
-    },
-    {
-      "name": "8-12 years",
-      "type": "directory",
-      "contents": [
-        {
-          "name": "Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf",
-          "type": "file",
-          "size": 23494136,
-          "path": "8-12 years/Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf"
-        },
-        {
-          "name": "Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf",
-          "type": "file",
-          "size": 19386593,
-          "path": "8-12 years/Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf"
-        },
-        {
-          "name": "Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
-          "type": "file",
-          "size": 3111875,
-          "path": "8-12 years/Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf"
-        },
-        {
-          "name": "Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf",
-          "type": "file",
-          "size": 4668174,
-          "path": "8-12 years/Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf"
-        },
-        {
-          "name": "Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf",
-          "type": "file",
-          "size": 5438350,
-          "path": "8-12 years/Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf"
-        },
-        {
-          "name": "Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf",
-          "type": "file",
-          "size": 4585422,
-          "path": "8-12 years/Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf"
-        },
-        {
-          "name": "Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf",
-          "type": "file",
-          "size": 2501703,
-          "path": "8-12 years/Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf"
-        },
-        {
-          "name": "Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf",
-          "type": "file",
-          "size": 11569123,
-          "path": "8-12 years/Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf"
-        },
-        {
-          "name": "M14-Letters-Numbers-Worksheets-Upload-AA131-v1_Mar2024.pdf",
-          "type": "file",
-          "size": 4729084,
-          "path": "8-12 years/M14-Letters-Numbers-Worksheets-Upload-AA131-v1_Mar2024.pdf"
-        },
-        {
-          "name": "My-travel-journal-to-Iraq_Upload_AA139-v1_May2020.pdf",
-          "type": "file",
-          "size": 9162054,
-          "path": "8-12 years/My-travel-journal-to-Iraq_Upload_AA139-v1_May2020.pdf"
-        },
-        {
-          "name": "Q-Read2_Upload_AA157-v1_May2020.pdf",
-          "type": "file",
-          "size": 1369766,
-          "path": "8-12 years/Q-Read2_Upload_AA157-v1_May2020.pdf"
-        },
-        {
-          "name": "Q-Read2_Workbook_Upload_AA158-v1_May2020.pdf",
-          "type": "file",
-          "size": 3502662,
-          "path": "8-12 years/Q-Read2_Workbook_Upload_AA158-v1_May2020.pdf"
-        },
-        {
-          "name": "Quran-Recitation-Record-Book_Upload_AA169-v2_Oct2024.pdf",
-          "type": "file",
-          "size": 598305,
-          "path": "8-12 years/Quran-Recitation-Record-Book_Upload_AA169-v2_Oct2024.pdf"
+          "path": "./4-7 years/Rhymes_for_Muslim_Children_Upload_AA175-v1_May2020.pdf",
+          "size": 7792710
         }
       ]
     },
     {
       "name": "8-16 years",
       "type": "directory",
+      "path": "./8-16 years",
       "contents": [
         {
-          "name": "Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
-          "type": "file",
-          "size": 3111875,
-          "path": "8-16 years/Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf"
+          "name": "CALENDAR RESOURCES",
+          "type": "directory",
+          "path": "./8-16 years/CALENDAR RESOURCES",
+          "contents": [
+            {
+              "name": "Eid-Al-Ghadeer-A3-Poste.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/Eid-Al-Ghadeer-A3-Poste.pdf",
+              "size": 2792870
+            },
+            {
+              "name": "Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
+              "size": 3111875
+            },
+            {
+              "name": "Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf",
+              "size": 4585422
+            },
+            {
+              "name": "Let-us-learn-about-the-months-of-muharram-and-safar_Upload_AA129-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/Let-us-learn-about-the-months-of-muharram-and-safar_Upload_AA129-v1_May2020.pdf",
+              "size": 4225218
+            },
+            {
+              "name": "Month_of_Shaban_webuse_AA202-v2_Mar2023.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/Month_of_Shaban_webuse_AA202-v2_Mar2023.pdf",
+              "size": 1304234
+            },
+            {
+              "name": "Q-Calendar_Upload_AA153-v1_may2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/Q-Calendar_Upload_AA153-v1_may2020.pdf",
+              "size": 1913024
+            },
+            {
+              "name": "QCalendar-at-a-glance.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/QCalendar-at-a-glance.pdf",
+              "size": 271559
+            },
+            {
+              "name": "Rajab-ul-Asab_Upload_AA200-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/Rajab-ul-Asab_Upload_AA200-v1_May2020.pdf",
+              "size": 839129
+            },
+            {
+              "name": "The-Month-of-Ramadhan-Upload_AA201-v3_Mar2024.pdf.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/The-Month-of-Ramadhan-Upload_AA201-v3_Mar2024.pdf.pdf",
+              "size": 30140800
+            },
+            {
+              "name": "The_Five_Ayaad_Upload_AA196-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/The_Five_Ayaad_Upload_AA196-v1_May2020.pdf",
+              "size": 1087298
+            },
+            {
+              "name": "hajj-steps2.pdf",
+              "type": "file",
+              "path": "./8-16 years/CALENDAR RESOURCES/hajj-steps2.pdf",
+              "size": 196882
+            }
+          ]
         },
         {
-          "name": "Let-us-learn-about-QWords_Upload_AA126-v1_May2020.pdf",
-          "type": "file",
-          "size": 4255875,
-          "path": "8-16 years/Let-us-learn-about-QWords_Upload_AA126-v1_May2020.pdf"
+          "name": "DUA RESOURCES",
+          "type": "directory",
+          "path": "./8-16 years/DUA RESOURCES",
+          "contents": [
+            {
+              "name": "Daily-Ziyara.pdf",
+              "type": "file",
+              "path": "./8-16 years/DUA RESOURCES/Daily-Ziyara.pdf",
+              "size": 1001838
+            },
+            {
+              "name": "Go_to_Duas_AA258_Jun22.pdf",
+              "type": "file",
+              "path": "./8-16 years/DUA RESOURCES/Go_to_Duas_AA258_Jun22.pdf",
+              "size": 1350908
+            },
+            {
+              "name": "Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/DUA RESOURCES/Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf",
+              "size": 5438350
+            },
+            {
+              "name": "Short-Duas_Upload_AA189-v1_may2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/DUA RESOURCES/Short-Duas_Upload_AA189-v1_may2020.pdf",
+              "size": 1034442
+            }
+          ]
         },
         {
-          "name": "Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf",
-          "type": "file",
-          "size": 4668174,
-          "path": "8-16 years/Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf"
+          "name": "JURISPRUDENCE RESOURCES",
+          "type": "directory",
+          "path": "./8-16 years/JURISPRUDENCE RESOURCES",
+          "contents": [
+            {
+              "name": "Duas-to-enhance-your-Salaa.pdf",
+              "type": "file",
+              "path": "./8-16 years/JURISPRUDENCE RESOURCES/Duas-to-enhance-your-Salaa.pdf",
+              "size": 1176621
+            },
+            {
+              "name": "Duas_for_Wudhoo-Upload_AA72-v2_Jun2024.pdf",
+              "type": "file",
+              "path": "./8-16 years/JURISPRUDENCE RESOURCES/Duas_for_Wudhoo-Upload_AA72-v2_Jun2024.pdf",
+              "size": 1777311
+            },
+            {
+              "name": "Taqibaat_Upload_AA191-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/JURISPRUDENCE RESOURCES/Taqibaat_Upload_AA191-v1_May2020.pdf",
+              "size": 1314381
+            },
+            {
+              "name": "Teaching_Jurisprudence_Upload_AA231-v3_Sep2024.pdf",
+              "type": "file",
+              "path": "./8-16 years/JURISPRUDENCE RESOURCES/Teaching_Jurisprudence_Upload_AA231-v3_Sep2024.pdf",
+              "size": 23918363
+            }
+          ]
         },
         {
-          "name": "Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf",
-          "type": "file",
-          "size": 5438350,
-          "path": "8-16 years/Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf"
+          "name": "LIFE RESOURCES",
+          "type": "directory",
+          "path": "./8-16 years/LIFE RESOURCES",
+          "contents": [
+            {
+              "name": "Baligh_Upload_AA256-v1_Jul2024.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Baligh_Upload_AA256-v1_Jul2024.pdf",
+              "size": 6008128
+            },
+            {
+              "name": "Baligha_Upload_AA53-v3_Jul2024.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Baligha_Upload_AA53-v3_Jul2024.pdf",
+              "size": 15560128
+            },
+            {
+              "name": "DeathBeyond_AdultCopy_Upload_AA130-v3_May2024.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/DeathBeyond_AdultCopy_Upload_AA130-v3_May2024.pdf",
+              "size": 3367980
+            },
+            {
+              "name": "Dua-after-Recitation-of-Nikah.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Dua-after-Recitation-of-Nikah.pdf",
+              "size": 287633
+            },
+            {
+              "name": "Ghusl-of-Mayyit-Poster-2.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Ghusl-of-Mayyit-Poster-2.pdf",
+              "size": 3806143
+            },
+            {
+              "name": "Jareeda-Poster.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Jareeda-Poster.pdf",
+              "size": 4745532
+            },
+            {
+              "name": "Kafan-Poster.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Kafan-Poster.pdf",
+              "size": 5871827
+            },
+            {
+              "name": "Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf",
+              "size": 11569123
+            },
+            {
+              "name": "Nikah_and_Beyond_Upload_AA143-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Nikah_and_Beyond_Upload_AA143-v1_May2020.pdf",
+              "size": 1182594
+            },
+            {
+              "name": "Risalatul-Huquq_Upload_AA176-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Risalatul-Huquq_Upload_AA176-v1_May2020.pdf",
+              "size": 821916
+            },
+            {
+              "name": "Salaa_Mayyit_Bookmark_AA178_v2.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Salaa_Mayyit_Bookmark_AA178_v2.pdf",
+              "size": 15630457
+            },
+            {
+              "name": "Spiritual-assistance-to-get-married-Bookmark-v2.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Spiritual-assistance-to-get-married-Bookmark-v2.pdf",
+              "size": 13294175
+            },
+            {
+              "name": "Spiritual-assistance-to-get-married.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Spiritual-assistance-to-get-married.pdf",
+              "size": 246692
+            },
+            {
+              "name": "The-Little-Book-of-Muslim-Manners_Upload_AA198-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/The-Little-Book-of-Muslim-Manners_Upload_AA198-v1_May2020.pdf",
+              "size": 1706651
+            },
+            {
+              "name": "Visiting-the-graveyard-Bookmark-webuse.pdf",
+              "type": "file",
+              "path": "./8-16 years/LIFE RESOURCES/Visiting-the-graveyard-Bookmark-webuse.pdf",
+              "size": 3604237
+            }
+          ]
         },
         {
-          "name": "Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf",
-          "type": "file",
-          "size": 4585422,
-          "path": "8-16 years/Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf"
+          "name": "Let us Learn",
+          "type": "directory",
+          "path": "./8-16 years/Let us Learn",
+          "contents": [
+            {
+              "name": "Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf",
+              "size": 23494136
+            },
+            {
+              "name": "Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf",
+              "size": 19386593
+            },
+            {
+              "name": "Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
+              "size": 3111875
+            },
+            {
+              "name": "Let-us-learn-about-QWords_Upload_AA126-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-QWords_Upload_AA126-v1_May2020.pdf",
+              "size": 4255875
+            },
+            {
+              "name": "Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf",
+              "size": 4668174
+            },
+            {
+              "name": "Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-communicating-with-Allah_Upload_AA123-v1_May2020.pdf",
+              "size": 5438350
+            },
+            {
+              "name": "Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v1_May2020.pdf",
+              "size": 4585422
+            },
+            {
+              "name": "Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf",
+              "size": 2501703
+            },
+            {
+              "name": "Let-us-learn-about-the-months-of-muharram-and-safar_Upload_AA129-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn-about-the-months-of-muharram-and-safar_Upload_AA129-v1_May2020.pdf",
+              "size": 4225218
+            },
+            {
+              "name": "Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/Let us Learn/Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf",
+              "size": 11569123
+            }
+          ]
         },
         {
-          "name": "Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf",
+          "name": "My-travel-journal-to-Iraq_Upload_AA139-v1_May2020.pdf",
           "type": "file",
-          "size": 2501703,
-          "path": "8-16 years/Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf"
+          "path": "./8-16 years/My-travel-journal-to-Iraq_Upload_AA139-v1_May2020.pdf",
+          "size": 9162054
+        },
+        {
+          "name": "PEOPLE RESOURCES",
+          "type": "directory",
+          "path": "./8-16 years/PEOPLE RESOURCES",
+          "contents": [
+            {
+              "name": "Ijtihad_Upload_AA93-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Ijtihad_Upload_AA93-v1_May2020.pdf",
+              "size": 702255
+            },
+            {
+              "name": "Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf",
+              "size": 23494136
+            },
+            {
+              "name": "Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf",
+              "size": 19386593
+            },
+            {
+              "name": "Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Let-us-learn-about-Sayyida-Fatima_Upload_AA127-v3_Jul22.pdf",
+              "size": 4668174
+            },
+            {
+              "name": "Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Let-us-learn-about-the-Prophet-Muhammad_Upload_AA125-v1_May2020.pdf",
+              "size": 2501703
+            },
+            {
+              "name": "Prophets-Mnemonics-Web-AA132.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Prophets-Mnemonics-Web-AA132.pdf",
+              "size": 841721
+            },
+            {
+              "name": "Q-Companions_Upload_AA154-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Q-Companions_Upload_AA154-v1_May2020.pdf",
+              "size": 594876
+            },
+            {
+              "name": "Q-Scholars_Upload_AA159-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/Q-Scholars_Upload_AA159-v1_May2020.pdf",
+              "size": 644987
+            },
+            {
+              "name": "The_Most_Awesome_Man_who_Walked_the_Earth_Upload_AA151-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/The_Most_Awesome_Man_who_Walked_the_Earth_Upload_AA151-v1_May2020.pdf",
+              "size": 5600880
+            },
+            {
+              "name": "The_Most_Awesome_Women_Upload_AA204-v2_Feb2023.pdf",
+              "type": "file",
+              "path": "./8-16 years/PEOPLE RESOURCES/The_Most_Awesome_Women_Upload_AA204-v2_Feb2023.pdf",
+              "size": 24049084
+            }
+          ]
+        },
+        {
+          "name": "QUR’AN RECITATION RESOURCES",
+          "type": "directory",
+          "path": "./8-16 years/QUR’AN RECITATION RESOURCES",
+          "contents": [
+            {
+              "name": "Let-us-learn-about-QWords_Upload_AA126-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Let-us-learn-about-QWords_Upload_AA126-v1_May2020.pdf",
+              "size": 4255875
+            },
+            {
+              "name": "Q-City_001_Fatiha_Workbook_Upload_AA22-v1_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_001_Fatiha_Workbook_Upload_AA22-v1_Apr2025.pdf",
+              "size": 12505085
+            },
+            {
+              "name": "Q-City_002_My-AyatulKursi_AamenarRasul_Workbook_Upload_AA4-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_002_My-AyatulKursi_AamenarRasul_Workbook_Upload_AA4-v1_May2020.pdf",
+              "size": 4909840
+            },
+            {
+              "name": "Q-City_004-Suwer-Qul_Upload_AA165-v2_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_004-Suwer-Qul_Upload_AA165-v2_Apr2025.pdf",
+              "size": 22410832
+            },
+            {
+              "name": "Q-City_017_Sura-Al-Israa_Workbook_Upload_AA262-v1_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_017_Sura-Al-Israa_Workbook_Upload_AA262-v1_Apr2025.pdf",
+              "size": 12913013
+            },
+            {
+              "name": "Q-City_049_Suratul_Hujurat_Worksheets_Upload_AA13-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_049_Suratul_Hujurat_Worksheets_Upload_AA13-v1_May2020.pdf",
+              "size": 2139993
+            },
+            {
+              "name": "Q-City_054_Al-Qamar-Workbook-webuse-Apr22-AA257.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_054_Al-Qamar-Workbook-webuse-Apr22-AA257.pdf",
+              "size": 14026954
+            },
+            {
+              "name": "Q-City_062_My-Suratul-Jumua_Workbook_Upload_AA15-v2_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_062_My-Suratul-Jumua_Workbook_Upload_AA15-v2_Apr2025.pdf",
+              "size": 7715654
+            },
+            {
+              "name": "Q-City_068_Al-Qalam-Workbook-web-Apr23-AA261.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_068_Al-Qalam-Workbook-web-Apr23-AA261.pdf",
+              "size": 32403394
+            },
+            {
+              "name": "Q-City_087-Al-Alaa_Workbook_Upload_AA263-v2_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_087-Al-Alaa_Workbook_Upload_AA263-v2_Apr2025.pdf",
+              "size": 8111136
+            },
+            {
+              "name": "Q-City_089-Al-Fajr_Upload_AA264-v1_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_089-Al-Fajr_Upload_AA264-v1_Apr2025.pdf",
+              "size": 20958910
+            },
+            {
+              "name": "Q-City_091_Shams_Workbook_Upload_AA24-v2_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_091_Shams_Workbook_Upload_AA24-v2_Apr2025.pdf",
+              "size": 9054273
+            },
+            {
+              "name": "Q-City_093-094-Dhuhaa-Inshiraah_Workbook_Upload_AA26-v1_Mar2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_093-094-Dhuhaa-Inshiraah_Workbook_Upload_AA26-v1_Mar2025.pdf",
+              "size": 20080295
+            },
+            {
+              "name": "Q-City_095_-Suratul_Teen_Workbook_Upload_AA27-v2_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_095_-Suratul_Teen_Workbook_Upload_AA27-v2_Apr2025.pdf",
+              "size": 22532296
+            },
+            {
+              "name": "Q-City_103_Suratul-_Asr_Workbook_Upload_AA31-v2_Apr2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Q-City_103_Suratul-_Asr_Workbook_Upload_AA31-v2_Apr2025.pdf",
+              "size": 29334172
+            },
+            {
+              "name": "QC_Duas-from-the-Quran_Upload_AA74-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/QC_Duas-from-the-Quran_Upload_AA74-v1_May2020.pdf",
+              "size": 12404990
+            },
+            {
+              "name": "QC_How-to-remember-114_Upload.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/QC_How-to-remember-114_Upload.pdf",
+              "size": 14264701
+            },
+            {
+              "name": "QC_Journalling-the-Quran_Upload4.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/QC_Journalling-the-Quran_Upload4.pdf",
+              "size": 21623484
+            },
+            {
+              "name": "QC_Key-Concepts_Upload_AA166-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/QC_Key-Concepts_Upload_AA166-v1_May2020.pdf",
+              "size": 3676339
+            },
+            {
+              "name": "QC_The_Last_10_Suwer_of_the_Quran_Upload_AA167-v1_May2020.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/QC_The_Last_10_Suwer_of_the_Quran_Upload_AA167-v1_May2020.pdf",
+              "size": 10101320
+            },
+            {
+              "name": "Quran-City-AA103-v3a-Jan2025.pdf",
+              "type": "file",
+              "path": "./8-16 years/QUR’AN RECITATION RESOURCES/Quran-City-AA103-v3a-Jan2025.pdf",
+              "size": 20336939
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asma ul Husna",
+      "type": "directory",
+      "path": "./Asma ul Husna",
+      "contents": [
+        {
+          "name": "A99-Bookmark-v1-AA244-Jan2025.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/A99-Bookmark-v1-AA244-Jan2025.pdf",
+          "size": 1287731
+        },
+        {
+          "name": "A99-How-to-remember-the-99-Names-of-Divinity-Upload-AA117-Mar2024.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/A99-How-to-remember-the-99-Names-of-Divinity-Upload-AA117-Mar2024.pdf",
+          "size": 7843886
+        },
+        {
+          "name": "A99-Tasbee-AA37-v2-Jan2024.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/A99-Tasbee-AA37-v2-Jan2024.pdf",
+          "size": 2095248
+        },
+        {
+          "name": "A99_Asmaul_Husna_Upload_AA38_v4_Jul2024.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/A99_Asmaul_Husna_Upload_AA38_v4_Jul2024.pdf",
+          "size": 8748404
+        },
+        {
+          "name": "A99_Puzzle_Chart_AA35_v1_Jan2024.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/A99_Puzzle_Chart_AA35_v1_Jan2024.pdf",
+          "size": 12935014
+        },
+        {
+          "name": "Asmaaul_Husna_for_every_day__Upload_AA237-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/Asmaaul_Husna_for_every_day__Upload_AA237-v1_May2020.pdf",
+          "size": 2656382
+        },
+        {
+          "name": "Asmaul-Husna-A5-Illustrated-Book_Web.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/Asmaul-Husna-A5-Illustrated-Book_Web.pdf",
+          "size": 7974629
+        },
+        {
+          "name": "Asmaul-Husna_Upload.pdf",
+          "type": "file",
+          "path": "./Asma ul Husna/Asmaul-Husna_Upload.pdf",
+          "size": 2587981
+        }
+      ]
+    },
+    {
+      "name": "Ethics",
+      "type": "directory",
+      "path": "./Ethics",
+      "contents": [
+        {
+          "name": "Al-Insan_The-Human-Being_Upload_AA40-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/Al-Insan_The-Human-Being_Upload_AA40-v1_May2020.pdf",
+          "size": 663711
+        },
+        {
+          "name": "Aqaaid_Upload_AA48-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/Aqaaid_Upload_AA48-v1_May2020.pdf",
+          "size": 1616146
+        },
+        {
+          "name": "Clever_Thinking_Upload_AA59-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/Clever_Thinking_Upload_AA59-v1_May2020.pdf",
+          "size": 412302
+        },
+        {
+          "name": "Hubb_Love_Upload_AA91-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/Hubb_Love_Upload_AA91-v1_May2020.pdf",
+          "size": 792669
+        },
+        {
+          "name": "Ibada_Upload_AA92-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/Ibada_Upload_AA92-v1_May2020.pdf",
+          "size": 668989
+        },
+        {
+          "name": "Janna_on_Earth_Upload_AA104-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/Janna_on_Earth_Upload_AA104-v1_May2020.pdf",
+          "size": 1240809
+        },
+        {
+          "name": "Qalbe_Saleem_Upload_AA163-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/Qalbe_Saleem_Upload_AA163-v1_May2020.pdf",
+          "size": 1505751
+        },
+        {
+          "name": "The-Little-Book-of-Muslim-Manners_Upload_AA198-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/The-Little-Book-of-Muslim-Manners_Upload_AA198-v1_May2020.pdf",
+          "size": 1706651
+        },
+        {
+          "name": "The_Clock_and_The_Compass_Upload_AA195-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Ethics/The_Clock_and_The_Compass_Upload_AA195-v1_May2020.pdf",
+          "size": 649078
+        }
+      ]
+    },
+    {
+      "name": "Healthy Living by Masumeen",
+      "type": "directory",
+      "path": "./Healthy Living by Masumeen",
+      "contents": [
+        {
+          "name": "Food-Drink.pdf",
+          "type": "file",
+          "path": "./Healthy Living by Masumeen/Food-Drink.pdf",
+          "size": 923877
+        },
+        {
+          "name": "Month-by-Month-food-guide-Upload_AA135-v3_May2025.pdf",
+          "type": "file",
+          "path": "./Healthy Living by Masumeen/Month-by-Month-food-guide-Upload_AA135-v3_May2025.pdf",
+          "size": 2032645
+        },
+        {
+          "name": "Prophet-Muhammad-Bookmark.pdf",
+          "type": "file",
+          "path": "./Healthy Living by Masumeen/Prophet-Muhammad-Bookmark.pdf",
+          "size": 325822
+        },
+        {
+          "name": "food-chart.pdf",
+          "type": "file",
+          "path": "./Healthy Living by Masumeen/food-chart.pdf",
+          "size": 3124104
+        },
+        {
+          "name": "healthy_living_Upload_AA90-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Healthy Living by Masumeen/healthy_living_Upload_AA90-v1_May2020.pdf",
+          "size": 1108047
+        }
+      ]
+    },
+    {
+      "name": "Interfaith & RE for Schools Publications",
+      "type": "directory",
+      "path": "./Interfaith & RE for Schools Publications",
+      "contents": [
+        {
+          "name": "Interfaith-Dialogue-Ahtiname-Scroll.pdf",
+          "type": "file",
+          "path": "./Interfaith & RE for Schools Publications/Interfaith-Dialogue-Ahtiname-Scroll.pdf",
+          "size": 155093
+        },
+        {
+          "name": "Interfaith-Dialogue-Comparative-Religions.pdf",
+          "type": "file",
+          "path": "./Interfaith & RE for Schools Publications/Interfaith-Dialogue-Comparative-Religions.pdf",
+          "size": 483711
+        },
+        {
+          "name": "Interfaith-Dialogue-Schools-of-Islam-Thoughts.pdf",
+          "type": "file",
+          "path": "./Interfaith & RE for Schools Publications/Interfaith-Dialogue-Schools-of-Islam-Thoughts.pdf",
+          "size": 1020348
+        },
+        {
+          "name": "RE-for-Schools-Infants_Upload_AA172-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Interfaith & RE for Schools Publications/RE-for-Schools-Infants_Upload_AA172-v1_May2020.pdf",
+          "size": 3293786
+        },
+        {
+          "name": "RE-for-Schools-Juniors_Upload_AA173-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Interfaith & RE for Schools Publications/RE-for-Schools-Juniors_Upload_AA173-v1_May2020.pdf",
+          "size": 3568155
+        }
+      ]
+    },
+    {
+      "name": "Know your Aimmah",
+      "type": "directory",
+      "path": "./Know your Aimmah",
+      "contents": [
+        {
+          "name": "Amaal_for_the_day_of_Ashura_AA44-v4a_Jul2023.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Amaal_for_the_day_of_Ashura_AA44-v4a_Jul2023.pdf",
+          "size": 1789529
+        },
+        {
+          "name": "Arbaeen_Upload_AA49-v2_Sep2023.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Arbaeen_Upload_AA49-v2_Sep2023.pdf",
+          "size": 864885
+        },
+        {
+          "name": "Hazrat-Abbas-ppt.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Hazrat-Abbas-ppt.pdf",
+          "size": 5366056
+        },
+        {
+          "name": "Imam-Ali-pbuh-1-ppt.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Imam-Ali-pbuh-1-ppt.pdf",
+          "size": 5174755
+        },
+        {
+          "name": "Imam-Ali-pbuh-QSchool-ppt.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Imam-Ali-pbuh-QSchool-ppt.pdf",
+          "size": 2051989
+        },
+        {
+          "name": "Imam-Hasan-Askery-pbuh-poster_-.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Imam-Hasan-Askery-pbuh-poster_-.pdf",
+          "size": 2869245
+        },
+        {
+          "name": "Imam-Mahdi-pbuh-ppt.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Imam-Mahdi-pbuh-ppt.pdf",
+          "size": 8685900
+        },
+        {
+          "name": "Imam_Al-Baqir_at_a_glance.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Imam_Al-Baqir_at_a_glance.pdf",
+          "size": 509854
+        },
+        {
+          "name": "Imam_Ali_Naqi_at_a_glance.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Imam_Ali_Naqi_at_a_glance.pdf",
+          "size": 1282632
+        },
+        {
+          "name": "Imam_Jawad_at_a_glance.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Imam_Jawad_at_a_glance.pdf",
+          "size": 1264160
         },
         {
           "name": "Let-us-learn-about-the-months-of-muharram-and-safar_Upload_AA129-v1_May2020.pdf",
           "type": "file",
-          "size": 4225218,
-          "path": "8-16 years/Let-us-learn-about-the-months-of-muharram-and-safar_Upload_AA129-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Let-us-learn-about-the-months-of-muharram-and-safar_Upload_AA129-v1_May2020.pdf",
+          "size": 4225218
         },
         {
-          "name": "Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf",
+          "name": "M14-Letters-Numbers-V1-Jan23-AA285.pdf",
           "type": "file",
-          "size": 11569123,
-          "path": "8-16 years/Let-us-learn_about-Death-and-Beyond_Upload_AA124-v1_May2020.pdf"
-        }
-      ]
-    },
-    {
-      "name": "Aimmatiy_Adult_Upload_AA39-v1_May2020.pdf",
-      "type": "file",
-      "size": 1156655,
-      "path": "Aimmatiy_Adult_Upload_AA39-v1_May2020.pdf"
-    },
-    {
-      "name": "Hadith-Kisaa-Worksheet.pdf",
-      "type": "file",
-      "size": 1602313,
-      "path": "Hadith-Kisaa-Worksheet.pdf"
-    },
-    {
-      "name": "M14-Letters-Numbers-V1-Jan23-AA285.pdf",
-      "type": "file",
-      "size": 1890229,
-      "path": "M14-Letters-Numbers-V1-Jan23-AA285.pdf"
-    },
-    {
-      "name": "M14-Masumeen_Printable-home.pdf",
-      "type": "file",
-      "size": 819843,
-      "path": "M14-Masumeen_Printable-home.pdf"
-    },
-    {
-      "name": "Quran",
-      "type": "directory",
-      "contents": [
-        {
-          "name": "004_Nisaa_spread-1.pdf",
-          "type": "file",
-          "size": 4298933,
-          "path": "Quran/004_Nisaa_spread-1.pdf"
-        },
-        {
-          "name": "005_Maaida_spread.pdf",
-          "type": "file",
-          "size": 649860,
-          "path": "Quran/005_Maaida_spread.pdf"
-        },
-        {
-          "name": "007_Araaf_spread.pdf",
-          "type": "file",
-          "size": 797786,
-          "path": "Quran/007_Araaf_spread.pdf"
-        },
-        {
-          "name": "008_Anfaal_spread.pdf",
-          "type": "file",
-          "size": 1355578,
-          "path": "Quran/008_Anfaal_spread.pdf"
-        },
-        {
-          "name": "009_Baraaa_spread.pdf",
-          "type": "file",
-          "size": 1436995,
-          "path": "Quran/009_Baraaa_spread.pdf"
-        },
-        {
-          "name": "010_Yunus_spread.pdf",
-          "type": "file",
-          "size": 681734,
-          "path": "Quran/010_Yunus_spread.pdf"
-        },
-        {
-          "name": "011_Hud_spread.pdf",
-          "type": "file",
-          "size": 2801855,
-          "path": "Quran/011_Hud_spread.pdf"
-        },
-        {
-          "name": "012_Yusuf_spread.pdf",
-          "type": "file",
-          "size": 2825981,
-          "path": "Quran/012_Yusuf_spread.pdf"
-        },
-        {
-          "name": "013_Al-Rad_spread.pdf",
-          "type": "file",
-          "size": 1915732,
-          "path": "Quran/013_Al-Rad_spread.pdf"
-        },
-        {
-          "name": "014_Ibraheem_spread.pdf",
-          "type": "file",
-          "size": 920004,
-          "path": "Quran/014_Ibraheem_spread.pdf"
-        },
-        {
-          "name": "015_Al-Hijr_spread.pdf",
-          "type": "file",
-          "size": 2316163,
-          "path": "Quran/015_Al-Hijr_spread.pdf"
-        },
-        {
-          "name": "016_Nahl_spread.pdf",
-          "type": "file",
-          "size": 1173099,
-          "path": "Quran/016_Nahl_spread.pdf"
-        },
-        {
-          "name": "017_Israa-ppt-v2.pdf",
-          "type": "file",
-          "size": 16320956,
-          "path": "Quran/017_Israa-ppt-v2.pdf"
-        },
-        {
-          "name": "017_Israa_spread.pdf",
-          "type": "file",
-          "size": 3065445,
-          "path": "Quran/017_Israa_spread.pdf"
-        },
-        {
-          "name": "018_Al-Kahf_spread.pdf",
-          "type": "file",
-          "size": 1403929,
-          "path": "Quran/018_Al-Kahf_spread.pdf"
-        },
-        {
-          "name": "018_Kahf-ppt-v2.pdf",
-          "type": "file",
-          "size": 13932444,
-          "path": "Quran/018_Kahf-ppt-v2.pdf"
-        },
-        {
-          "name": "019_Maryam_spread.pdf",
-          "type": "file",
-          "size": 2700231,
-          "path": "Quran/019_Maryam_spread.pdf"
-        },
-        {
-          "name": "020_Taahaa_spread.pdf",
-          "type": "file",
-          "size": 658825,
-          "path": "Quran/020_Taahaa_spread.pdf"
-        },
-        {
-          "name": "021_Ambiyaa_spread.pdf",
-          "type": "file",
-          "size": 1700916,
-          "path": "Quran/021_Ambiyaa_spread.pdf"
-        },
-        {
-          "name": "022_Hajj_ppt-v2.pdf",
-          "type": "file",
-          "size": 11540521,
-          "path": "Quran/022_Hajj_ppt-v2.pdf"
-        },
-        {
-          "name": "022_Hajj_spread.pdf",
-          "type": "file",
-          "size": 2283970,
-          "path": "Quran/022_Hajj_spread.pdf"
-        },
-        {
-          "name": "023_Muminun_spread.pdf",
-          "type": "file",
-          "size": 8036296,
-          "path": "Quran/023_Muminun_spread.pdf"
-        },
-        {
-          "name": "024_Ayatun-Nur_24-35_ppt.pdf",
-          "type": "file",
-          "size": 2828314,
-          "path": "Quran/024_Ayatun-Nur_24-35_ppt.pdf"
-        },
-        {
-          "name": "024_Nur_spread.pdf",
-          "type": "file",
-          "size": 4234568,
-          "path": "Quran/024_Nur_spread.pdf"
-        },
-        {
-          "name": "025_Furqaan-ppt-v2.pdf",
-          "type": "file",
-          "size": 9927204,
-          "path": "Quran/025_Furqaan-ppt-v2.pdf"
-        },
-        {
-          "name": "025_Furqaan_spread.pdf",
-          "type": "file",
-          "size": 825094,
-          "path": "Quran/025_Furqaan_spread.pdf"
-        },
-        {
-          "name": "026_Shuaraa_spread.pdf",
-          "type": "file",
-          "size": 2820448,
-          "path": "Quran/026_Shuaraa_spread.pdf"
-        },
-        {
-          "name": "027_Naml_spread.pdf",
-          "type": "file",
-          "size": 2482321,
-          "path": "Quran/027_Naml_spread.pdf"
-        },
-        {
-          "name": "028_Qasas_spread.pdf",
-          "type": "file",
-          "size": 2794148,
-          "path": "Quran/028_Qasas_spread.pdf"
-        },
-        {
-          "name": "029_Ankabut-ppt-v2.pdf",
-          "type": "file",
-          "size": 9215509,
-          "path": "Quran/029_Ankabut-ppt-v2.pdf"
-        },
-        {
-          "name": "029_Ankabut_Spread.pdf",
-          "type": "file",
-          "size": 2023147,
-          "path": "Quran/029_Ankabut_Spread.pdf"
-        },
-        {
-          "name": "030_Al-Rum_spread.pdf",
-          "type": "file",
-          "size": 4206718,
-          "path": "Quran/030_Al-Rum_spread.pdf"
-        },
-        {
-          "name": "030_Rum-ppt-v2.pdf",
-          "type": "file",
-          "size": 9004254,
-          "path": "Quran/030_Rum-ppt-v2.pdf"
-        },
-        {
-          "name": "031_Luqmaan_spread.pdf",
-          "type": "file",
-          "size": 2104342,
-          "path": "Quran/031_Luqmaan_spread.pdf"
-        },
-        {
-          "name": "032_Sajda_spread.pdf",
-          "type": "file",
-          "size": 5080576,
-          "path": "Quran/032_Sajda_spread.pdf"
-        },
-        {
-          "name": "033_Ahzaab-ppt-v2.pdf",
-          "type": "file",
-          "size": 9985936,
-          "path": "Quran/033_Ahzaab-ppt-v2.pdf"
-        },
-        {
-          "name": "033_Ahzaab_spread.pdf",
-          "type": "file",
-          "size": 2495488,
-          "path": "Quran/033_Ahzaab_spread.pdf"
-        },
-        {
-          "name": "034_Sabaa-ppt-v2.pdf",
-          "type": "file",
-          "size": 8425537,
-          "path": "Quran/034_Sabaa-ppt-v2.pdf"
-        },
-        {
-          "name": "034_Sabaa_Spread.pdf",
-          "type": "file",
-          "size": 2328393,
-          "path": "Quran/034_Sabaa_Spread.pdf"
-        },
-        {
-          "name": "035_Faatir_Spread.pdf",
-          "type": "file",
-          "size": 2299866,
-          "path": "Quran/035_Faatir_Spread.pdf"
-        },
-        {
-          "name": "035_Faatir_ppt-v2.pdf",
-          "type": "file",
-          "size": 7294911,
-          "path": "Quran/035_Faatir_ppt-v2.pdf"
-        },
-        {
-          "name": "036_Yaseen-ppt-v2.pdf",
-          "type": "file",
-          "size": 11942975,
-          "path": "Quran/036_Yaseen-ppt-v2.pdf"
-        },
-        {
-          "name": "036_Yaseen_spread.pdf",
-          "type": "file",
-          "size": 2354555,
-          "path": "Quran/036_Yaseen_spread.pdf"
-        },
-        {
-          "name": "037_Saffaat_spread.pdf",
-          "type": "file",
-          "size": 2057638,
-          "path": "Quran/037_Saffaat_spread.pdf"
-        },
-        {
-          "name": "038_Saad_spread.pdf",
-          "type": "file",
-          "size": 2024651,
-          "path": "Quran/038_Saad_spread.pdf"
-        },
-        {
-          "name": "039_Zumar-ppt-v2.pdf",
-          "type": "file",
-          "size": 11449714,
-          "path": "Quran/039_Zumar-ppt-v2.pdf"
-        },
-        {
-          "name": "039_Zumar_spread.pdf",
-          "type": "file",
-          "size": 2275402,
-          "path": "Quran/039_Zumar_spread.pdf"
-        },
-        {
-          "name": "040_Ghaafir_spread.pdf",
-          "type": "file",
-          "size": 2535112,
-          "path": "Quran/040_Ghaafir_spread.pdf"
-        },
-        {
-          "name": "041_Fussilat_spread.pdf",
-          "type": "file",
-          "size": 2309750,
-          "path": "Quran/041_Fussilat_spread.pdf"
-        },
-        {
-          "name": "042_Shuraa_spread.pdf",
-          "type": "file",
-          "size": 2216844,
-          "path": "Quran/042_Shuraa_spread.pdf"
-        },
-        {
-          "name": "043_Zukhruf_spread.pdf",
-          "type": "file",
-          "size": 2135367,
-          "path": "Quran/043_Zukhruf_spread.pdf"
-        },
-        {
-          "name": "044_Dukhan-ppt-v2.pdf",
-          "type": "file",
-          "size": 9343498,
-          "path": "Quran/044_Dukhan-ppt-v2.pdf"
-        },
-        {
-          "name": "044_Dukhan_spread.pdf",
-          "type": "file",
-          "size": 2210068,
-          "path": "Quran/044_Dukhan_spread.pdf"
-        },
-        {
-          "name": "045_Jaathiya_spread.pdf",
-          "type": "file",
-          "size": 2127122,
-          "path": "Quran/045_Jaathiya_spread.pdf"
-        },
-        {
-          "name": "046_Ahqaaf_spread.pdf",
-          "type": "file",
-          "size": 2443498,
-          "path": "Quran/046_Ahqaaf_spread.pdf"
-        },
-        {
-          "name": "047_Muhammad_spread.pdf",
-          "type": "file",
-          "size": 1831469,
-          "path": "Quran/047_Muhammad_spread.pdf"
-        },
-        {
-          "name": "048_Fath_spread.pdf",
-          "type": "file",
-          "size": 1256671,
-          "path": "Quran/048_Fath_spread.pdf"
-        },
-        {
-          "name": "049_Hujurat_spread.pdf",
-          "type": "file",
-          "size": 1567067,
-          "path": "Quran/049_Hujurat_spread.pdf"
-        },
-        {
-          "name": "050_Qaaf_spread.pdf",
-          "type": "file",
-          "size": 2183239,
-          "path": "Quran/050_Qaaf_spread.pdf"
-        },
-        {
-          "name": "051_Al-Dhaariyaat_spread.pdf",
-          "type": "file",
-          "size": 3965503,
-          "path": "Quran/051_Al-Dhaariyaat_spread.pdf"
-        },
-        {
-          "name": "052_Al-Tur_spread.pdf",
-          "type": "file",
-          "size": 6807239,
-          "path": "Quran/052_Al-Tur_spread.pdf"
-        },
-        {
-          "name": "053_Al-Najm_spread.pdf",
-          "type": "file",
-          "size": 2131218,
-          "path": "Quran/053_Al-Najm_spread.pdf"
-        },
-        {
-          "name": "054_Al-Qamar_spread.pdf",
-          "type": "file",
-          "size": 2013477,
-          "path": "Quran/054_Al-Qamar_spread.pdf"
-        },
-        {
-          "name": "054_Qamar_ppt_v2.pdf",
-          "type": "file",
-          "size": 8855399,
-          "path": "Quran/054_Qamar_ppt_v2.pdf"
-        },
-        {
-          "name": "055_Al-Rahmaan_spread.pdf",
-          "type": "file",
-          "size": 2298455,
-          "path": "Quran/055_Al-Rahmaan_spread.pdf"
-        },
-        {
-          "name": "055_Rahmaan-ppt-v2.pdf",
-          "type": "file",
-          "size": 11940040,
-          "path": "Quran/055_Rahmaan-ppt-v2.pdf"
-        },
-        {
-          "name": "056_Al-Waaqia_spread.pdf",
-          "type": "file",
-          "size": 2066747,
-          "path": "Quran/056_Al-Waaqia_spread.pdf"
-        },
-        {
-          "name": "057-_Hadeed-ppt-v2.pdf",
-          "type": "file",
-          "size": 6383025,
-          "path": "Quran/057-_Hadeed-ppt-v2.pdf"
-        },
-        {
-          "name": "057_Al-Hadeed_spread.pdf",
-          "type": "file",
-          "size": 2110412,
-          "path": "Quran/057_Al-Hadeed_spread.pdf"
-        },
-        {
-          "name": "058_Al-Mujadilah_spread.pdf",
-          "type": "file",
-          "size": 2269721,
-          "path": "Quran/058_Al-Mujadilah_spread.pdf"
-        },
-        {
-          "name": "058_Mujadilah-ppt-v2.pdf",
-          "type": "file",
-          "size": 5948162,
-          "path": "Quran/058_Mujadilah-ppt-v2.pdf"
-        },
-        {
-          "name": "Al_Ankabut_Poster.pdf",
-          "type": "file",
-          "size": 6227928,
-          "path": "Quran/Al_Ankabut_Poster.pdf"
-        },
-        {
-          "name": "Ayatul-Birr-window.pdf",
-          "type": "file",
-          "size": 1126191,
-          "path": "Quran/Ayatul-Birr-window.pdf"
-        },
-        {
-          "name": "Ayatul-Ikmaal_5-3.pdf",
-          "type": "file",
-          "size": 381525,
-          "path": "Quran/Ayatul-Ikmaal_5-3.pdf"
-        },
-        {
-          "name": "Ayatul-Kareema.pdf",
-          "type": "file",
-          "size": 705833,
-          "path": "Quran/Ayatul-Kareema.pdf"
-        },
-        {
-          "name": "Ayatul-Mulk.pdf",
-          "type": "file",
-          "size": 734988,
-          "path": "Quran/Ayatul-Mulk.pdf"
-        },
-        {
-          "name": "Ayatush-Shahada.pdf",
-          "type": "file",
-          "size": 744854,
-          "path": "Quran/Ayatush-Shahada.pdf"
-        },
-        {
-          "name": "Ayatut-Tatheer.pdf",
-          "type": "file",
-          "size": 669439,
-          "path": "Quran/Ayatut-Tatheer.pdf"
-        },
-        {
-          "name": "Daily-Recitation-Chart-For-The-5-Prayers.pdf",
-          "type": "file",
-          "size": 902816,
-          "path": "Quran/Daily-Recitation-Chart-For-The-5-Prayers.pdf"
-        },
-        {
-          "name": "Q-City_017_Sura-Al-Israa_Upload_AA8-v2_Apr2025.pdf",
-          "type": "file",
-          "size": 21022559,
-          "path": "Quran/Q-City_017_Sura-Al-Israa_Upload_AA8-v2_Apr2025.pdf"
-        },
-        {
-          "name": "Q-City_017_Sura-Al-Israa_Workbook_Upload_AA262-v1_Apr2025.pdf",
-          "type": "file",
-          "size": 12913013,
-          "path": "Quran/Q-City_017_Sura-Al-Israa_Workbook_Upload_AA262-v1_Apr2025.pdf"
-        },
-        {
-          "name": "Q-City_029_Suratul_Ankabut_Upload_AA235-v2_May2020.pdf",
-          "type": "file",
-          "size": 14579627,
-          "path": "Quran/Q-City_029_Suratul_Ankabut_Upload_AA235-v2_May2020.pdf"
-        },
-        {
-          "name": "Q-City_036_Sura-Al-Yaasin_Notes_Upload_AA11-v1_May2020.pdf",
-          "type": "file",
-          "size": 4709235,
-          "path": "Quran/Q-City_036_Sura-Al-Yaasin_Notes_Upload_AA11-v1_May2020.pdf"
+          "path": "./Know your Aimmah/M14-Letters-Numbers-V1-Jan23-AA285.pdf",
+          "size": 1890229
         },
         {
-          "name": "Q-City_049_Suratul_Hujurat_Upload_AA12-v1_May2020.pdf",
+          "name": "M14-Masumeen_Printable-home.pdf",
           "type": "file",
-          "size": 15912448,
-          "path": "Quran/Q-City_049_Suratul_Hujurat_Upload_AA12-v1_May2020.pdf"
+          "path": "./Know your Aimmah/M14-Masumeen_Printable-home.pdf",
+          "size": 819843
         },
         {
-          "name": "Q-City_049_Suratul_Hujurat_Worksheets_Upload_AA13-v1_May2020.pdf",
+          "name": "Prophet_Muhammad_40_Upload_AA148-v1_May2020-1.pdf",
           "type": "file",
-          "size": 2139993,
-          "path": "Quran/Q-City_049_Suratul_Hujurat_Worksheets_Upload_AA13-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Prophet_Muhammad_40_Upload_AA148-v1_May2020-1.pdf",
+          "size": 872690
         },
         {
-          "name": "Q-City_054_Al-Qamar-Workbook-webuse-Apr22-AA257.pdf",
+          "name": "Q-Calendar-04-Rabi-ul-Akher_Imam-Hasan-Askery.pdf",
           "type": "file",
-          "size": 13869461,
-          "path": "Quran/Q-City_054_Al-Qamar-Workbook-webuse-Apr22-AA257.pdf"
+          "path": "./Know your Aimmah/Q-Calendar-04-Rabi-ul-Akher_Imam-Hasan-Askery.pdf",
+          "size": 2475290
         },
         {
-          "name": "Q-City_055_Suratul_Rahmaan_Upload_AA14-v1_May2020.pdf",
+          "name": "Q-Calendar_05-Jamad-ul-Awwal_Sayyida-Zaynab.pdf",
           "type": "file",
-          "size": 5107059,
-          "path": "Quran/Q-City_055_Suratul_Rahmaan_Upload_AA14-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Q-Calendar_05-Jamad-ul-Awwal_Sayyida-Zaynab.pdf",
+          "size": 9193624
         },
         {
-          "name": "Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf",
+          "name": "Qcalendar_08-Shaban_Imam-Zaynul-Abideen.pdf",
           "type": "file",
-          "size": 6716448,
-          "path": "Quran/Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Qcalendar_08-Shaban_Imam-Zaynul-Abideen.pdf",
+          "size": 7722074
         },
         {
-          "name": "QC_Journalling-the-Quran_Upload4.pdf",
+          "name": "Sayyida-Fatima-pbuh-Poster.pdf",
           "type": "file",
-          "size": 21623484,
-          "path": "Quran/QC_Journalling-the-Quran_Upload4.pdf"
+          "path": "./Know your Aimmah/Sayyida-Fatima-pbuh-Poster.pdf",
+          "size": 477209
         },
         {
-          "name": "Q_Learn-to-recite-Quran-AA160-Mar23.pdf",
+          "name": "Sayyida-Zaynab-Intellectual-Heritage_Web.pdf",
           "type": "file",
-          "size": 3672597,
-          "path": "Quran/Q_Learn-to-recite-Quran-AA160-Mar23.pdf"
+          "path": "./Know your Aimmah/Sayyida-Zaynab-Intellectual-Heritage_Web.pdf",
+          "size": 3437172
         },
         {
-          "name": "Quran-City-AA103-v2-Oct2024.pdf",
+          "name": "Sermon_of_the_Prophet_v2_Apr2021.pdf",
           "type": "file",
-          "size": 20537954,
-          "path": "Quran/Quran-City-AA103-v2-Oct2024.pdf"
+          "path": "./Know your Aimmah/Sermon_of_the_Prophet_v2_Apr2021.pdf",
+          "size": 256205
         },
         {
-          "name": "Quran-City-Focus-of-each-sura-AA161-Oct2024.pdf",
+          "name": "The-Salawat-and-Tasbeeh-of-Sayyida-Fatima-Zahrapbuh_WEB.pdf",
           "type": "file",
-          "size": 16647052,
-          "path": "Quran/Quran-City-Focus-of-each-sura-AA161-Oct2024.pdf"
+          "path": "./Know your Aimmah/The-Salawat-and-Tasbeeh-of-Sayyida-Fatima-Zahrapbuh_WEB.pdf",
+          "size": 242673
         },
-        {
-          "name": "Quran-City_Building-inserts_AA102-Oct2024.pdf",
-          "type": "file",
-          "size": 19574809,
-          "path": "Quran/Quran-City_Building-inserts_AA102-Oct2024.pdf"
-        },
-        {
-          "name": "Quran-Recitation-Rewards-Bookmark-V2.pdf",
-          "type": "file",
-          "size": 283743,
-          "path": "Quran/Quran-Recitation-Rewards-Bookmark-V2.pdf"
-        },
-        {
-          "name": "Rule-to-enter-Quran-City-bookmark.pdf",
-          "type": "file",
-          "size": 1857642,
-          "path": "Quran/Rule-to-enter-Quran-City-bookmark.pdf"
-        },
-        {
-          "name": "Stopping_Signs_Bookmark_upload.pdf",
-          "type": "file",
-          "size": 689767,
-          "path": "Quran/Stopping_Signs_Bookmark_upload.pdf"
-        },
-        {
-          "name": "Symmetry-of-Ayatul-Kursi.pdf",
-          "type": "file",
-          "size": 1140792,
-          "path": "Quran/Symmetry-of-Ayatul-Kursi.pdf"
-        },
-        {
-          "name": "Wajib_Sajda_bookmark_upload.pdf",
-          "type": "file",
-          "size": 612687,
-          "path": "Quran/Wajib_Sajda_bookmark_upload.pdf"
-        }
-      ]
-    },
-    {
-      "name": "Syria_Travel_Journal_Upload_AA224-v1_May2020.pdf",
-      "type": "file",
-      "size": 1540882,
-      "path": "Syria_Travel_Journal_Upload_AA224-v1_May2020.pdf"
-    },
-    {
-      "name": "Timelines-14",
-      "type": "directory",
-      "contents": [
         {
           "name": "Timeline00_Prophet_Muhammad_Upload_AA213-v1_May2020.pdf",
           "type": "file",
-          "size": 905952,
-          "path": "Timelines-14/Timeline00_Prophet_Muhammad_Upload_AA213-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline00_Prophet_Muhammad_Upload_AA213-v1_May2020.pdf",
+          "size": 905952
         },
         {
           "name": "Timeline00a_Sayyida_Fatima_Upload_AA214-v1_May2020.pdf",
           "type": "file",
-          "size": 715650,
-          "path": "Timelines-14/Timeline00a_Sayyida_Fatima_Upload_AA214-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline00a_Sayyida_Fatima_Upload_AA214-v1_May2020.pdf",
+          "size": 715650
+        },
+        {
+          "name": "Timeline00a_Sayyida_Khadija_Upload_AA215-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Timeline00a_Sayyida_Khadija_Upload_AA215-v1_May2020.pdf",
+          "size": 567845
         },
         {
           "name": "Timeline01_Imam_Ali_Upload_AA205-v1_May2020.pdf",
           "type": "file",
-          "size": 872160,
-          "path": "Timelines-14/Timeline01_Imam_Ali_Upload_AA205-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline01_Imam_Ali_Upload_AA205-v1_May2020.pdf",
+          "size": 872160
         },
         {
           "name": "Timeline02_Imam_Hasan_Upload_AA206-v1_may2020.pdf",
           "type": "file",
-          "size": 413300,
-          "path": "Timelines-14/Timeline02_Imam_Hasan_Upload_AA206-v1_may2020.pdf"
+          "path": "./Know your Aimmah/Timeline02_Imam_Hasan_Upload_AA206-v1_may2020.pdf",
+          "size": 413300
         },
         {
           "name": "Timeline03_Imam_Husayn_Upload_AA207-v1_May2020.pdf",
           "type": "file",
-          "size": 1040718,
-          "path": "Timelines-14/Timeline03_Imam_Husayn_Upload_AA207-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline03_Imam_Husayn_Upload_AA207-v1_May2020.pdf",
+          "size": 1040718
         },
         {
           "name": "Timeline04-Imam-Ali-Zaynul-Abideen_Upload_AA208-v1_May2020.pdf",
           "type": "file",
-          "size": 490169,
-          "path": "Timelines-14/Timeline04-Imam-Ali-Zaynul-Abideen_Upload_AA208-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline04-Imam-Ali-Zaynul-Abideen_Upload_AA208-v1_May2020.pdf",
+          "size": 490169
         },
         {
           "name": "Timeline05-Imam-Muhammad-Baqir_Upload_AA252-v1_Dec2021.pdf",
           "type": "file",
-          "size": 2930489,
-          "path": "Timelines-14/Timeline05-Imam-Muhammad-Baqir_Upload_AA252-v1_Dec2021.pdf"
+          "path": "./Know your Aimmah/Timeline05-Imam-Muhammad-Baqir_Upload_AA252-v1_Dec2021.pdf",
+          "size": 2930489
         },
         {
           "name": "Timeline06-Imam-Jafer-Sadiq_Upload_AA253-v1_Dec2021.pdf",
           "type": "file",
-          "size": 2806872,
-          "path": "Timelines-14/Timeline06-Imam-Jafer-Sadiq_Upload_AA253-v1_Dec2021.pdf"
+          "path": "./Know your Aimmah/Timeline06-Imam-Jafer-Sadiq_Upload_AA253-v1_Dec2021.pdf",
+          "size": 2806872
         },
         {
           "name": "Timeline07_Imam_Musa_Kadhim_Upload_AA209-v1_May2020.pdf",
           "type": "file",
-          "size": 453910,
-          "path": "Timelines-14/Timeline07_Imam_Musa_Kadhim_Upload_AA209-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline07_Imam_Musa_Kadhim_Upload_AA209-v1_May2020.pdf",
+          "size": 453910
         },
         {
           "name": "Timeline08_Imam_Ali_Ridha_Upload_AA210-v1_May2020.pdf",
           "type": "file",
-          "size": 477582,
-          "path": "Timelines-14/Timeline08_Imam_Ali_Ridha_Upload_AA210-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline08_Imam_Ali_Ridha_Upload_AA210-v1_May2020.pdf",
+          "size": 477582
         },
         {
           "name": "Timeline09-Imam-Muhammad-Taqi_Upload_AA254-v1_Dec2021.pdf",
           "type": "file",
-          "size": 2867960,
-          "path": "Timelines-14/Timeline09-Imam-Muhammad-Taqi_Upload_AA254-v1_Dec2021.pdf"
+          "path": "./Know your Aimmah/Timeline09-Imam-Muhammad-Taqi_Upload_AA254-v1_Dec2021.pdf",
+          "size": 2867960
         },
         {
           "name": "Timeline10-Imam-Ali-Naqii_Upload_AA255-v1_Dec2021.pdf",
           "type": "file",
-          "size": 2795891,
-          "path": "Timelines-14/Timeline10-Imam-Ali-Naqii_Upload_AA255-v1_Dec2021.pdf"
+          "path": "./Know your Aimmah/Timeline10-Imam-Ali-Naqii_Upload_AA255-v1_Dec2021.pdf",
+          "size": 2795891
         },
         {
           "name": "Timeline11_Imam_Hasan_Askery_Upload_AA211-v1_May2020.pdf",
           "type": "file",
-          "size": 547007,
-          "path": "Timelines-14/Timeline11_Imam_Hasan_Askery_Upload_AA211-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline11_Imam_Hasan_Askery_Upload_AA211-v1_May2020.pdf",
+          "size": 547007
         },
         {
           "name": "Timeline12_Imam-Mahdi_Upload_AA212-v1_May2020.pdf",
           "type": "file",
-          "size": 631970,
-          "path": "Timelines-14/Timeline12_Imam-Mahdi_Upload_AA212-v1_May2020.pdf"
+          "path": "./Know your Aimmah/Timeline12_Imam-Mahdi_Upload_AA212-v1_May2020.pdf",
+          "size": 631970
+        },
+        {
+          "name": "Timeline_sayyida_zaynab_Upload_AA216-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Timeline_sayyida_zaynab_Upload_AA216-v1_May2020.pdf",
+          "size": 3210006
+        },
+        {
+          "name": "Yaa_Husayn_Marthiyas_Upload_AA222-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Know your Aimmah/Yaa_Husayn_Marthiyas_Upload_AA222-v1_May2020.pdf",
+          "size": 1410483
         }
       ]
     },
     {
-      "name": "Yaa_Husayn_Marthiyas_Upload_AA222-v1_May2020.pdf",
-      "type": "file",
-      "size": 1410483,
-      "path": "Yaa_Husayn_Marthiyas_Upload_AA222-v1_May2020.pdf"
+      "name": "Mahe Rajab",
+      "type": "directory",
+      "path": "./Mahe Rajab",
+      "contents": [
+        {
+          "name": "Amaal-Day-27-Rajab-Upload.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Amaal-Day-27-Rajab-Upload.pdf",
+          "size": 455350
+        },
+        {
+          "name": "Amaal-Night-of-27-Rajab-Upload.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Amaal-Night-of-27-Rajab-Upload.pdf",
+          "size": 1175514
+        },
+        {
+          "name": "Amaal-Ummi-Dawud-Suwer-focuses-benefits-v1.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Amaal-Ummi-Dawud-Suwer-focuses-benefits-v1.pdf",
+          "size": 77966
+        },
+        {
+          "name": "Amaal-Ummi-Dawud-ppt-Feb2021.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Amaal-Ummi-Dawud-ppt-Feb2021.pdf",
+          "size": 5953979
+        },
+        {
+          "name": "Amaal_Ummi_Dawud_UploadAA46-v3_Jan2023.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Amaal_Ummi_Dawud_UploadAA46-v3_Jan2023.pdf",
+          "size": 1330764
+        },
+        {
+          "name": "Dua-Month-of-Rajab.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Dua-Month-of-Rajab.pdf",
+          "size": 120640
+        },
+        {
+          "name": "Dua-for-Rajab-Bookmark.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Dua-for-Rajab-Bookmark.pdf",
+          "size": 693902
+        },
+        {
+          "name": "Mabath-Miraaj-ppt.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Mabath-Miraaj-ppt.pdf",
+          "size": 1804615
+        },
+        {
+          "name": "Q-Calendar_Rajab-at-a-glance.pdf",
+          "type": "file",
+          "path": "./Mahe Rajab/Q-Calendar_Rajab-at-a-glance.pdf",
+          "size": 17636060
+        }
+      ]
     },
     {
-      "name": "Ziyara-Journal-Iraq_Upload_AA223-v1_May2020.pdf",
-      "type": "file",
-      "size": 3075696,
-      "path": "Ziyara-Journal-Iraq_Upload_AA223-v1_May2020.pdf"
+      "name": "Mahe Ramadhan",
+      "type": "directory",
+      "path": "./Mahe Ramadhan",
+      "contents": [
+        {
+          "name": "09-Month-of-Ramadhan-Rules-of-Fasting.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/09-Month-of-Ramadhan-Rules-of-Fasting.pdf",
+          "size": 2876009
+        },
+        {
+          "name": "09-Month-of-Ramadhan-at-a-glance.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/09-Month-of-Ramadhan-at-a-glance.pdf",
+          "size": 6291561
+        },
+        {
+          "name": "Calling-The-High-and-Mighty-poster-v2.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Calling-The-High-and-Mighty-poster-v2.pdf",
+          "size": 645818
+        },
+        {
+          "name": "Dua-Noor-Azheem-v2.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Dua-Noor-Azheem-v2.pdf",
+          "size": 451623
+        },
+        {
+          "name": "Dua-al-Mujeer_Upload_AA64-v2_Apr2021.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Dua-al-Mujeer_Upload_AA64-v2_Apr2021.pdf",
+          "size": 284467
+        },
+        {
+          "name": "Dua-before-breaking-a-fast.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Dua-before-breaking-a-fast.pdf",
+          "size": 2541844
+        },
+        {
+          "name": "Dua-for-humanity-poster-v2.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Dua-for-humanity-poster-v2.pdf",
+          "size": 727257
+        },
+        {
+          "name": "Dua_Abu_Hamza_Thumali_Upload_AA229-v2_Mar26.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Dua_Abu_Hamza_Thumali_Upload_AA229-v2_Mar26.pdf",
+          "size": 1225816
+        },
+        {
+          "name": "Duas_for_month_of_Ramadhan_Upload_AA71-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Duas_for_month_of_Ramadhan_Upload_AA71-v1_May2020.pdf",
+          "size": 1637675
+        },
+        {
+          "name": "Kalimatut_Tayyiba_Ramadhan_Upload_AA107-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Kalimatut_Tayyiba_Ramadhan_Upload_AA107-v1_May2020.pdf",
+          "size": 2790904
+        },
+        {
+          "name": "Laylatul_Qadr_Time_Management_Poster_19-21.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Laylatul_Qadr_Time_Management_Poster_19-21.pdf",
+          "size": 12553354
+        },
+        {
+          "name": "Laylatul_Qadr_Time_Management_Poster_23rd-night-upload.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Laylatul_Qadr_Time_Management_Poster_23rd-night-upload.pdf",
+          "size": 3296237
+        },
+        {
+          "name": "Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v3_Feb2026.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Let-us-learn-about-the-Month-of-Ramadhan_Upload_AA128-v3_Feb2026.pdf",
+          "size": 6486188
+        },
+        {
+          "name": "M14-Masumeen_Poster-2.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/M14-Masumeen_Poster-2.pdf",
+          "size": 819843
+        },
+        {
+          "name": "Month-of-Ramadhan-Activity-Book_Upload_AA136-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Month-of-Ramadhan-Activity-Book_Upload_AA136-v1_May2020.pdf",
+          "size": 3834662
+        },
+        {
+          "name": "My-Ramadhan-Diary-Upload-v1-AA174-Mar2025.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/My-Ramadhan-Diary-Upload-v1-AA174-Mar2025.pdf",
+          "size": 10916474
+        },
+        {
+          "name": "Sermon_of_the_Prophet_v2_Apr2021.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/Sermon_of_the_Prophet_v2_Apr2021.pdf",
+          "size": 256205
+        },
+        {
+          "name": "The-Month-of-Ramadhan-Upload_AA201-v3_Mar2024.pdf.pdf",
+          "type": "file",
+          "path": "./Mahe Ramadhan/The-Month-of-Ramadhan-Upload_AA201-v3_Mar2024.pdf.pdf",
+          "size": 30132034
+        }
+      ]
+    },
+    {
+      "name": "Mahe Shaban",
+      "type": "directory",
+      "path": "./Mahe Shaban",
+      "contents": [
+        {
+          "name": "Amaal-Laylatul-Baraa-Mar2021.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Amaal-Laylatul-Baraa-Mar2021.pdf",
+          "size": 3705705
+        },
+        {
+          "name": "Areedha-children-v2-AA51-Jan2025.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Areedha-children-v2-AA51-Jan2025.pdf",
+          "size": 340872
+        },
+        {
+          "name": "Covenant-of-Truth-Bookmark.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Covenant-of-Truth-Bookmark.pdf",
+          "size": 114145
+        },
+        {
+          "name": "Dua-Shabaniyya-ppt.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Dua-Shabaniyya-ppt.pdf",
+          "size": 781413
+        },
+        {
+          "name": "Dua-of-Areedha-Adults-V6.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Dua-of-Areedha-Adults-V6.pdf",
+          "size": 2864790
+        },
+        {
+          "name": "Dua_Shabaniyya_webuse_AA69-v2_Mar2023.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Dua_Shabaniyya_webuse_AA69-v2_Mar2023.pdf",
+          "size": 314692
+        },
+        {
+          "name": "Month_of_Shaban_webuse_AA202-v2_Mar2023.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Month_of_Shaban_webuse_AA202-v2_Mar2023.pdf",
+          "size": 1304234
+        },
+        {
+          "name": "Personalised-Areedha.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Personalised-Areedha.pdf",
+          "size": 1052812
+        },
+        {
+          "name": "Shaban-at-a-Glance-ppt.pdf",
+          "type": "file",
+          "path": "./Mahe Shaban/Shaban-at-a-Glance-ppt.pdf",
+          "size": 2001589
+        }
+      ]
+    },
+    {
+      "name": "Mahe Shawwal",
+      "type": "directory",
+      "path": "./Mahe Shawwal",
+      "contents": [
+        {
+          "name": "Imam-Sadiq-pbuh-6.pdf",
+          "type": "file",
+          "path": "./Mahe Shawwal/Imam-Sadiq-pbuh-6.pdf",
+          "size": 259693
+        },
+        {
+          "name": "Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Mahe Shawwal/Let-us-learn-about-Ash-hural-Hajj_Upload_AA122-v1_May2020.pdf",
+          "size": 3111875
+        },
+        {
+          "name": "The_Five_Ayaad_Upload_AA196-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Mahe Shawwal/The_Five_Ayaad_Upload_AA196-v1_May2020.pdf",
+          "size": 1087298
+        },
+        {
+          "name": "Timeline06-Imam-Jafer-Sadiq_Upload_AA253-v1_Dec2021.pdf",
+          "type": "file",
+          "path": "./Mahe Shawwal/Timeline06-Imam-Jafer-Sadiq_Upload_AA253-v1_Dec2021.pdf",
+          "size": 2806872
+        }
+      ]
+    },
+    {
+      "name": "Mahe Zilhajj",
+      "type": "directory",
+      "path": "./Mahe Zilhajj",
+      "contents": [
+        {
+          "name": "Amaal_for_the_day_of_Arafaat_Upload_AA43-v3_Jun2023.pdf",
+          "type": "file",
+          "path": "./Mahe Zilhajj/Amaal_for_the_day_of_Arafaat_Upload_AA43-v3_Jun2023.pdf",
+          "size": 2332006
+        },
+        {
+          "name": "Dhulhijja_powerpoint.pdf",
+          "type": "file",
+          "path": "./Mahe Zilhajj/Dhulhijja_powerpoint.pdf",
+          "size": 5058928
+        },
+        {
+          "name": "Eid-Al-Ghadeer-Bookmark.pdf",
+          "type": "file",
+          "path": "./Mahe Zilhajj/Eid-Al-Ghadeer-Bookmark.pdf",
+          "size": 1810115
+        },
+        {
+          "name": "Eid-Al-Ghadeer-ppt-Jun2024.pdf",
+          "type": "file",
+          "path": "./Mahe Zilhajj/Eid-Al-Ghadeer-ppt-Jun2024.pdf",
+          "size": 824682
+        },
+        {
+          "name": "Hajj_Travel_Journal_Upload_AA89-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Mahe Zilhajj/Hajj_Travel_Journal_Upload_AA89-v1_May2020.pdf",
+          "size": 1688559
+        },
+        {
+          "name": "The_Farewell_Hajj_Upload_AA82-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Mahe Zilhajj/The_Farewell_Hajj_Upload_AA82-v1_May2020.pdf",
+          "size": 1649852
+        }
+      ]
+    },
+    {
+      "name": "Mahe Zilqad",
+      "type": "directory",
+      "path": "./Mahe Zilqad",
+      "contents": [
+        {
+          "name": "Amaal-for-Dhulqada.pdf",
+          "type": "file",
+          "path": "./Mahe Zilqad/Amaal-for-Dhulqada.pdf",
+          "size": 506741
+        },
+        {
+          "name": "Imam_Jawad_at_a_glance.pdf",
+          "type": "file",
+          "path": "./Mahe Zilqad/Imam_Jawad_at_a_glance.pdf",
+          "size": 1264160
+        }
+      ]
+    },
+    {
+      "name": "Misc",
+      "type": "directory",
+      "path": "./Misc",
+      "contents": [
+        {
+          "name": "Parenting_Upload_AA146-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Misc/Parenting_Upload_AA146-v1_May2020.pdf",
+          "size": 1404224
+        },
+        {
+          "name": "Qiyama_Upload_AA240-v1_Jun2020.pdf",
+          "type": "file",
+          "path": "./Misc/Qiyama_Upload_AA240-v1_Jun2020.pdf",
+          "size": 1411581
+        },
+        {
+          "name": "Syria_Travel_Journal_Upload_AA224-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Misc/Syria_Travel_Journal_Upload_AA224-v1_May2020.pdf",
+          "size": 1540882
+        },
+        {
+          "name": "Tawheed_Upload_AA192-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Misc/Tawheed_Upload_AA192-v1_May2020.pdf",
+          "size": 2953513
+        },
+        {
+          "name": "Thursday-Night-Dua.pdf",
+          "type": "file",
+          "path": "./Misc/Thursday-Night-Dua.pdf",
+          "size": 415299
+        },
+        {
+          "name": "What-to-do-on-a-Friday.pdf",
+          "type": "file",
+          "path": "./Misc/What-to-do-on-a-Friday.pdf",
+          "size": 553981
+        },
+        {
+          "name": "Yaa_Husayn_Marthiyas_Upload_AA222-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Misc/Yaa_Husayn_Marthiyas_Upload_AA222-v1_May2020.pdf",
+          "size": 1410483
+        },
+        {
+          "name": "Ziyara-Journal-Iraq_Upload_AA223-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Misc/Ziyara-Journal-Iraq_Upload_AA223-v1_May2020.pdf",
+          "size": 3075696
+        },
+        {
+          "name": "duas_for_childbirth.pdf",
+          "type": "file",
+          "path": "./Misc/duas_for_childbirth.pdf",
+          "size": 6245209
+        },
+        {
+          "name": "pregnancy_chart.pdf",
+          "type": "file",
+          "path": "./Misc/pregnancy_chart.pdf",
+          "size": 169930
+        }
+      ]
+    },
+    {
+      "name": "Nabuwwa and Imamah",
+      "type": "directory",
+      "path": "./Nabuwwa and Imamah",
+      "contents": [
+        {
+          "name": "Aimmatiy_Adult_Upload_AA39-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/Aimmatiy_Adult_Upload_AA39-v1_May2020.pdf",
+          "size": 1156655
+        },
+        {
+          "name": "Ambiya_Upload_AA47-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/Ambiya_Upload_AA47-v1_May2020.pdf",
+          "size": 1445436
+        },
+        {
+          "name": "Aqaaid_Upload_AA48-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/Aqaaid_Upload_AA48-v1_May2020.pdf",
+          "size": 1616146
+        },
+        {
+          "name": "Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/Let-us-learn-about-Aimmatiy_Upload_AA120-v2_Nov2023.pdf",
+          "size": 23494136
+        },
+        {
+          "name": "Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/Let-us-learn-about-Ambiya_Upload_AA121-v2_Jun2024.pdf",
+          "size": 19386593
+        },
+        {
+          "name": "M14-Masumeen_Poster-2.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/M14-Masumeen_Poster-2.pdf",
+          "size": 819843
+        },
+        {
+          "name": "Prophets-Mnemonics-Web-AA132.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/Prophets-Mnemonics-Web-AA132.pdf",
+          "size": 841721
+        },
+        {
+          "name": "Prophets_Mnemonics_Bookmark_AA133_v2.pdf",
+          "type": "file",
+          "path": "./Nabuwwa and Imamah/Prophets_Mnemonics_Bookmark_AA133_v2.pdf",
+          "size": 26319227
+        }
+      ]
+    },
+    {
+      "name": "Quran",
+      "type": "directory",
+      "path": "./Quran",
+      "contents": [
+        {
+          "name": "004_Nisaa_spread-1.pdf",
+          "type": "file",
+          "path": "./Quran/004_Nisaa_spread-1.pdf",
+          "size": 4298933
+        },
+        {
+          "name": "005_Maaida_spread.pdf",
+          "type": "file",
+          "path": "./Quran/005_Maaida_spread.pdf",
+          "size": 649860
+        },
+        {
+          "name": "007_Araaf_spread.pdf",
+          "type": "file",
+          "path": "./Quran/007_Araaf_spread.pdf",
+          "size": 797786
+        },
+        {
+          "name": "008_Anfaal_spread.pdf",
+          "type": "file",
+          "path": "./Quran/008_Anfaal_spread.pdf",
+          "size": 1355578
+        },
+        {
+          "name": "009_Baraaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/009_Baraaa_spread.pdf",
+          "size": 1436995
+        },
+        {
+          "name": "010_Yunus_spread.pdf",
+          "type": "file",
+          "path": "./Quran/010_Yunus_spread.pdf",
+          "size": 681734
+        },
+        {
+          "name": "011_Hud_spread.pdf",
+          "type": "file",
+          "path": "./Quran/011_Hud_spread.pdf",
+          "size": 2801855
+        },
+        {
+          "name": "012_Yusuf_spread.pdf",
+          "type": "file",
+          "path": "./Quran/012_Yusuf_spread.pdf",
+          "size": 2825981
+        },
+        {
+          "name": "013_Al-Rad_spread.pdf",
+          "type": "file",
+          "path": "./Quran/013_Al-Rad_spread.pdf",
+          "size": 1915732
+        },
+        {
+          "name": "014_Ibraheem_spread.pdf",
+          "type": "file",
+          "path": "./Quran/014_Ibraheem_spread.pdf",
+          "size": 920004
+        },
+        {
+          "name": "015_Al-Hijr_spread.pdf",
+          "type": "file",
+          "path": "./Quran/015_Al-Hijr_spread.pdf",
+          "size": 2316163
+        },
+        {
+          "name": "016_Nahl_spread.pdf",
+          "type": "file",
+          "path": "./Quran/016_Nahl_spread.pdf",
+          "size": 1173099
+        },
+        {
+          "name": "017_Israa-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/017_Israa-ppt-v2.pdf",
+          "size": 16320956
+        },
+        {
+          "name": "017_Israa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/017_Israa_spread.pdf",
+          "size": 3065445
+        },
+        {
+          "name": "018_Al-Kahf_spread.pdf",
+          "type": "file",
+          "path": "./Quran/018_Al-Kahf_spread.pdf",
+          "size": 1403929
+        },
+        {
+          "name": "018_Kahf-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/018_Kahf-ppt-v2.pdf",
+          "size": 13932444
+        },
+        {
+          "name": "019_Maryam_spread.pdf",
+          "type": "file",
+          "path": "./Quran/019_Maryam_spread.pdf",
+          "size": 2700231
+        },
+        {
+          "name": "020_Taahaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/020_Taahaa_spread.pdf",
+          "size": 658825
+        },
+        {
+          "name": "021_Ambiyaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/021_Ambiyaa_spread.pdf",
+          "size": 1700916
+        },
+        {
+          "name": "022_Hajj_ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/022_Hajj_ppt-v2.pdf",
+          "size": 11540521
+        },
+        {
+          "name": "022_Hajj_spread.pdf",
+          "type": "file",
+          "path": "./Quran/022_Hajj_spread.pdf",
+          "size": 2283970
+        },
+        {
+          "name": "023_Muminun_spread.pdf",
+          "type": "file",
+          "path": "./Quran/023_Muminun_spread.pdf",
+          "size": 8036296
+        },
+        {
+          "name": "024_Ayatun-Nur_24-35_ppt.pdf",
+          "type": "file",
+          "path": "./Quran/024_Ayatun-Nur_24-35_ppt.pdf",
+          "size": 2828314
+        },
+        {
+          "name": "024_Nur_spread.pdf",
+          "type": "file",
+          "path": "./Quran/024_Nur_spread.pdf",
+          "size": 4234568
+        },
+        {
+          "name": "025_Furqaan-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/025_Furqaan-ppt-v2.pdf",
+          "size": 9927204
+        },
+        {
+          "name": "025_Furqaan_spread.pdf",
+          "type": "file",
+          "path": "./Quran/025_Furqaan_spread.pdf",
+          "size": 825094
+        },
+        {
+          "name": "026_Shuaraa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/026_Shuaraa_spread.pdf",
+          "size": 2820448
+        },
+        {
+          "name": "027_Naml_spread.pdf",
+          "type": "file",
+          "path": "./Quran/027_Naml_spread.pdf",
+          "size": 2482321
+        },
+        {
+          "name": "028_Qasas_spread.pdf",
+          "type": "file",
+          "path": "./Quran/028_Qasas_spread.pdf",
+          "size": 2794148
+        },
+        {
+          "name": "029_Ankabut-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/029_Ankabut-ppt-v2.pdf",
+          "size": 9215509
+        },
+        {
+          "name": "029_Ankabut_Spread.pdf",
+          "type": "file",
+          "path": "./Quran/029_Ankabut_Spread.pdf",
+          "size": 2023147
+        },
+        {
+          "name": "030_Al-Rum_spread.pdf",
+          "type": "file",
+          "path": "./Quran/030_Al-Rum_spread.pdf",
+          "size": 4206718
+        },
+        {
+          "name": "030_Rum-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/030_Rum-ppt-v2.pdf",
+          "size": 9004254
+        },
+        {
+          "name": "031_Luqmaan_spread.pdf",
+          "type": "file",
+          "path": "./Quran/031_Luqmaan_spread.pdf",
+          "size": 2104342
+        },
+        {
+          "name": "032_Sajda_spread.pdf",
+          "type": "file",
+          "path": "./Quran/032_Sajda_spread.pdf",
+          "size": 5080576
+        },
+        {
+          "name": "033_Ahzaab-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/033_Ahzaab-ppt-v2.pdf",
+          "size": 9985936
+        },
+        {
+          "name": "033_Ahzaab_spread.pdf",
+          "type": "file",
+          "path": "./Quran/033_Ahzaab_spread.pdf",
+          "size": 2495488
+        },
+        {
+          "name": "034_Sabaa-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/034_Sabaa-ppt-v2.pdf",
+          "size": 8425537
+        },
+        {
+          "name": "034_Sabaa_Spread.pdf",
+          "type": "file",
+          "path": "./Quran/034_Sabaa_Spread.pdf",
+          "size": 2328393
+        },
+        {
+          "name": "035_Faatir_Spread.pdf",
+          "type": "file",
+          "path": "./Quran/035_Faatir_Spread.pdf",
+          "size": 2299866
+        },
+        {
+          "name": "035_Faatir_ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/035_Faatir_ppt-v2.pdf",
+          "size": 7294911
+        },
+        {
+          "name": "036_Yaseen-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/036_Yaseen-ppt-v2.pdf",
+          "size": 11942975
+        },
+        {
+          "name": "036_Yaseen_spread.pdf",
+          "type": "file",
+          "path": "./Quran/036_Yaseen_spread.pdf",
+          "size": 2354555
+        },
+        {
+          "name": "037_Saffaat_spread.pdf",
+          "type": "file",
+          "path": "./Quran/037_Saffaat_spread.pdf",
+          "size": 2057638
+        },
+        {
+          "name": "038_Saad_spread.pdf",
+          "type": "file",
+          "path": "./Quran/038_Saad_spread.pdf",
+          "size": 2024651
+        },
+        {
+          "name": "039_Zumar-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/039_Zumar-ppt-v2.pdf",
+          "size": 11449714
+        },
+        {
+          "name": "039_Zumar_spread.pdf",
+          "type": "file",
+          "path": "./Quran/039_Zumar_spread.pdf",
+          "size": 2275402
+        },
+        {
+          "name": "040_Ghaafir_spread.pdf",
+          "type": "file",
+          "path": "./Quran/040_Ghaafir_spread.pdf",
+          "size": 2535112
+        },
+        {
+          "name": "041_Fussilat_spread.pdf",
+          "type": "file",
+          "path": "./Quran/041_Fussilat_spread.pdf",
+          "size": 2309750
+        },
+        {
+          "name": "042_Shuraa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/042_Shuraa_spread.pdf",
+          "size": 2216844
+        },
+        {
+          "name": "043_Zukhruf_spread.pdf",
+          "type": "file",
+          "path": "./Quran/043_Zukhruf_spread.pdf",
+          "size": 2135367
+        },
+        {
+          "name": "044_Dukhan-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/044_Dukhan-ppt-v2.pdf",
+          "size": 9343498
+        },
+        {
+          "name": "044_Dukhan_spread.pdf",
+          "type": "file",
+          "path": "./Quran/044_Dukhan_spread.pdf",
+          "size": 2210068
+        },
+        {
+          "name": "045_Jaathiya_spread.pdf",
+          "type": "file",
+          "path": "./Quran/045_Jaathiya_spread.pdf",
+          "size": 2127122
+        },
+        {
+          "name": "046_Ahqaaf_spread.pdf",
+          "type": "file",
+          "path": "./Quran/046_Ahqaaf_spread.pdf",
+          "size": 2443498
+        },
+        {
+          "name": "047_Muhammad_spread.pdf",
+          "type": "file",
+          "path": "./Quran/047_Muhammad_spread.pdf",
+          "size": 1831469
+        },
+        {
+          "name": "048_Fath_spread.pdf",
+          "type": "file",
+          "path": "./Quran/048_Fath_spread.pdf",
+          "size": 1256671
+        },
+        {
+          "name": "049_Hujurat_spread.pdf",
+          "type": "file",
+          "path": "./Quran/049_Hujurat_spread.pdf",
+          "size": 1567067
+        },
+        {
+          "name": "050_Qaaf_spread.pdf",
+          "type": "file",
+          "path": "./Quran/050_Qaaf_spread.pdf",
+          "size": 2183239
+        },
+        {
+          "name": "051_Al-Dhaariyaat_spread.pdf",
+          "type": "file",
+          "path": "./Quran/051_Al-Dhaariyaat_spread.pdf",
+          "size": 3965503
+        },
+        {
+          "name": "052_Al-Tur_spread.pdf",
+          "type": "file",
+          "path": "./Quran/052_Al-Tur_spread.pdf",
+          "size": 6807239
+        },
+        {
+          "name": "053_Al-Najm_spread.pdf",
+          "type": "file",
+          "path": "./Quran/053_Al-Najm_spread.pdf",
+          "size": 2131218
+        },
+        {
+          "name": "054_Al-Qamar_spread.pdf",
+          "type": "file",
+          "path": "./Quran/054_Al-Qamar_spread.pdf",
+          "size": 2013477
+        },
+        {
+          "name": "054_Qamar_ppt_v2.pdf",
+          "type": "file",
+          "path": "./Quran/054_Qamar_ppt_v2.pdf",
+          "size": 8855399
+        },
+        {
+          "name": "055_Al-Rahmaan_spread.pdf",
+          "type": "file",
+          "path": "./Quran/055_Al-Rahmaan_spread.pdf",
+          "size": 2298455
+        },
+        {
+          "name": "055_Rahmaan-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/055_Rahmaan-ppt-v2.pdf",
+          "size": 11940040
+        },
+        {
+          "name": "056_Al-Waaqia_spread.pdf",
+          "type": "file",
+          "path": "./Quran/056_Al-Waaqia_spread.pdf",
+          "size": 2066747
+        },
+        {
+          "name": "057-_Hadeed-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/057-_Hadeed-ppt-v2.pdf",
+          "size": 6383025
+        },
+        {
+          "name": "057_Al-Hadeed_spread.pdf",
+          "type": "file",
+          "path": "./Quran/057_Al-Hadeed_spread.pdf",
+          "size": 2110412
+        },
+        {
+          "name": "058_Al-Mujadilah_spread.pdf",
+          "type": "file",
+          "path": "./Quran/058_Al-Mujadilah_spread.pdf",
+          "size": 2269721
+        },
+        {
+          "name": "058_Mujadilah-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/058_Mujadilah-ppt-v2.pdf",
+          "size": 5948162
+        },
+        {
+          "name": "059_Al-Hashr_spread.pdf",
+          "type": "file",
+          "path": "./Quran/059_Al-Hashr_spread.pdf",
+          "size": 19029709
+        },
+        {
+          "name": "059_Hashr-ppt-v2pptx.pdf",
+          "type": "file",
+          "path": "./Quran/059_Hashr-ppt-v2pptx.pdf",
+          "size": 6050118
+        },
+        {
+          "name": "060_Al-Mumtahana_spread.pdf",
+          "type": "file",
+          "path": "./Quran/060_Al-Mumtahana_spread.pdf",
+          "size": 1251746
+        },
+        {
+          "name": "061_Al-Saff_spread.pdf",
+          "type": "file",
+          "path": "./Quran/061_Al-Saff_spread.pdf",
+          "size": 1981116
+        },
+        {
+          "name": "061_Saff-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/061_Saff-ppt-v2.pdf",
+          "size": 4893373
+        },
+        {
+          "name": "062_Al-Jumua_spread.pdf",
+          "type": "file",
+          "path": "./Quran/062_Al-Jumua_spread.pdf",
+          "size": 1995315
+        },
+        {
+          "name": "062_Al-Jumua_v2-ppt.pdf",
+          "type": "file",
+          "path": "./Quran/062_Al-Jumua_v2-ppt.pdf",
+          "size": 4731175
+        },
+        {
+          "name": "063_Al-Munafiqun_spread.pdf",
+          "type": "file",
+          "path": "./Quran/063_Al-Munafiqun_spread.pdf",
+          "size": 1253305
+        },
+        {
+          "name": "063_Munafiqun-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/063_Munafiqun-ppt-v2.pdf",
+          "size": 3367122
+        },
+        {
+          "name": "064_Al-Taghaabun_spread.pdf",
+          "type": "file",
+          "path": "./Quran/064_Al-Taghaabun_spread.pdf",
+          "size": 1818613
+        },
+        {
+          "name": "064_Taghaabun-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/064_Taghaabun-ppt-v2.pdf",
+          "size": 5310615
+        },
+        {
+          "name": "065_Al-Talaaq_spread1.pdf",
+          "type": "file",
+          "path": "./Quran/065_Al-Talaaq_spread1.pdf",
+          "size": 1895173
+        },
+        {
+          "name": "065_Talaaq-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/065_Talaaq-ppt-v2.pdf",
+          "size": 4525020
+        },
+        {
+          "name": "066_Al-Tahreem_spread.pdf",
+          "type": "file",
+          "path": "./Quran/066_Al-Tahreem_spread.pdf",
+          "size": 1878002
+        },
+        {
+          "name": "067_Al-Mulk_spread.pdf",
+          "type": "file",
+          "path": "./Quran/067_Al-Mulk_spread.pdf",
+          "size": 1882873
+        },
+        {
+          "name": "067_Mulk-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/067_Mulk-ppt-v2.pdf",
+          "size": 5474010
+        },
+        {
+          "name": "068_Al-Qalam_spread.pdf",
+          "type": "file",
+          "path": "./Quran/068_Al-Qalam_spread.pdf",
+          "size": 826998
+        },
+        {
+          "name": "068_Qalam_v2_ppt.pdf",
+          "type": "file",
+          "path": "./Quran/068_Qalam_v2_ppt.pdf",
+          "size": 9426964
+        },
+        {
+          "name": "069_Al-Haaqqaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/069_Al-Haaqqaa_spread.pdf",
+          "size": 1994677
+        },
+        {
+          "name": "070_Al-Maaarij_spread.pdf",
+          "type": "file",
+          "path": "./Quran/070_Al-Maaarij_spread.pdf",
+          "size": 1453199
+        },
+        {
+          "name": "071_Nuh_spread.pdf",
+          "type": "file",
+          "path": "./Quran/071_Nuh_spread.pdf",
+          "size": 3254245
+        },
+        {
+          "name": "072_Al-Jinn_spread.pdf",
+          "type": "file",
+          "path": "./Quran/072_Al-Jinn_spread.pdf",
+          "size": 2634499
+        },
+        {
+          "name": "072_Jinn-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/072_Jinn-ppt-v2.pdf",
+          "size": 5413071
+        },
+        {
+          "name": "073-Muzzammil-ppt.pdf",
+          "type": "file",
+          "path": "./Quran/073-Muzzammil-ppt.pdf",
+          "size": 5765809
+        },
+        {
+          "name": "073-Sura-Muzzamil-Notes.pdf",
+          "type": "file",
+          "path": "./Quran/073-Sura-Muzzamil-Notes.pdf",
+          "size": 2706564
+        },
+        {
+          "name": "074-Muddathir-ppt.pdf",
+          "type": "file",
+          "path": "./Quran/074-Muddathir-ppt.pdf",
+          "size": 9811890
+        },
+        {
+          "name": "074_Muddathir_spread.pdf",
+          "type": "file",
+          "path": "./Quran/074_Muddathir_spread.pdf",
+          "size": 1112835
+        },
+        {
+          "name": "075_Al-Qiyaama_spread.pdf",
+          "type": "file",
+          "path": "./Quran/075_Al-Qiyaama_spread.pdf",
+          "size": 1709961
+        },
+        {
+          "name": "076.-Al-Insaan-Dahr-Spread-1.pdf",
+          "type": "file",
+          "path": "./Quran/076.-Al-Insaan-Dahr-Spread-1.pdf",
+          "size": 5354895
+        },
+        {
+          "name": "076_Dahr-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/076_Dahr-ppt-v2.pdf",
+          "size": 4628961
+        },
+        {
+          "name": "077_Al-Mursalaat_spread.pdf",
+          "type": "file",
+          "path": "./Quran/077_Al-Mursalaat_spread.pdf",
+          "size": 1989993
+        },
+        {
+          "name": "078_Al-Nabaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/078_Al-Nabaa_spread.pdf",
+          "size": 1599286
+        },
+        {
+          "name": "079_Al-Naaziaat_spread.pdf",
+          "type": "file",
+          "path": "./Quran/079_Al-Naaziaat_spread.pdf",
+          "size": 2084969
+        },
+        {
+          "name": "080_Abasaa_ppt.pdf",
+          "type": "file",
+          "path": "./Quran/080_Abasaa_ppt.pdf",
+          "size": 3354983
+        },
+        {
+          "name": "080_Abasaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/080_Abasaa_spread.pdf",
+          "size": 2249087
+        },
+        {
+          "name": "081_Al-Takweer_spread.pdf",
+          "type": "file",
+          "path": "./Quran/081_Al-Takweer_spread.pdf",
+          "size": 2454887
+        },
+        {
+          "name": "082_Al-Infitaar_spread.pdf",
+          "type": "file",
+          "path": "./Quran/082_Al-Infitaar_spread.pdf",
+          "size": 2492861
+        },
+        {
+          "name": "083_Al-Mutaffifeen_spread.pdf",
+          "type": "file",
+          "path": "./Quran/083_Al-Mutaffifeen_spread.pdf",
+          "size": 2290135
+        },
+        {
+          "name": "083_Mutaffiffeen_ppt.pdf",
+          "type": "file",
+          "path": "./Quran/083_Mutaffiffeen_ppt.pdf",
+          "size": 3377768
+        },
+        {
+          "name": "084_Al-Inshiqaaq_spread.pdf",
+          "type": "file",
+          "path": "./Quran/084_Al-Inshiqaaq_spread.pdf",
+          "size": 1855484
+        },
+        {
+          "name": "085_Al-Burooj_spread.pdf",
+          "type": "file",
+          "path": "./Quran/085_Al-Burooj_spread.pdf",
+          "size": 2238432
+        },
+        {
+          "name": "086_Al-Taariq_spread.pdf",
+          "type": "file",
+          "path": "./Quran/086_Al-Taariq_spread.pdf",
+          "size": 1854737
+        },
+        {
+          "name": "087-Alaa-ppt.pdf",
+          "type": "file",
+          "path": "./Quran/087-Alaa-ppt.pdf",
+          "size": 5681944
+        },
+        {
+          "name": "087_Al-Alaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/087_Al-Alaa_spread.pdf",
+          "size": 2066367
+        },
+        {
+          "name": "088_Al-Ghaashiya_spread.pdf",
+          "type": "file",
+          "path": "./Quran/088_Al-Ghaashiya_spread.pdf",
+          "size": 1979249
+        },
+        {
+          "name": "089_Al-Fajr_spread.pdf",
+          "type": "file",
+          "path": "./Quran/089_Al-Fajr_spread.pdf",
+          "size": 2285165
+        },
+        {
+          "name": "089_Fajr-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/089_Fajr-ppt-v2.pdf",
+          "size": 7049970
+        },
+        {
+          "name": "090 Al Balad Publications – QFatima.pdf",
+          "type": "file",
+          "path": "./Quran/090 Al Balad Publications – QFatima.pdf",
+          "size": 2118621
+        },
+        {
+          "name": "090_Al-Balad_spread.pdf",
+          "type": "file",
+          "path": "./Quran/090_Al-Balad_spread.pdf",
+          "size": 1680537
+        },
+        {
+          "name": "091_Al-Shams_spread.pdf",
+          "type": "file",
+          "path": "./Quran/091_Al-Shams_spread.pdf",
+          "size": 1723629
+        },
+        {
+          "name": "091_Shams-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/091_Shams-ppt-v2.pdf",
+          "size": 4874916
+        },
+        {
+          "name": "092_Al-Layl_spread.pdf",
+          "type": "file",
+          "path": "./Quran/092_Al-Layl_spread.pdf",
+          "size": 1220204
+        },
+        {
+          "name": "093-Dhuhaa-ppt.pdf",
+          "type": "file",
+          "path": "./Quran/093-Dhuhaa-ppt.pdf",
+          "size": 4882490
+        },
+        {
+          "name": "093_Al-Dhuha_spread.pdf",
+          "type": "file",
+          "path": "./Quran/093_Al-Dhuha_spread.pdf",
+          "size": 2095326
+        },
+        {
+          "name": "094-Inshiraah-ppt.pdf",
+          "type": "file",
+          "path": "./Quran/094-Inshiraah-ppt.pdf",
+          "size": 4193890
+        },
+        {
+          "name": "094_Al-Inshiraah-spread.pdf",
+          "type": "file",
+          "path": "./Quran/094_Al-Inshiraah-spread.pdf",
+          "size": 1794138
+        },
+        {
+          "name": "095_Al-Teen_spread.pdf",
+          "type": "file",
+          "path": "./Quran/095_Al-Teen_spread.pdf",
+          "size": 1993838
+        },
+        {
+          "name": "095_Teen-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/095_Teen-ppt-v2.pdf",
+          "size": 4226307
+        },
+        {
+          "name": "096_Al-Alaq_spread.pdf",
+          "type": "file",
+          "path": "./Quran/096_Al-Alaq_spread.pdf",
+          "size": 375844
+        },
+        {
+          "name": "096_Alaq-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/096_Alaq-ppt-v2.pdf",
+          "size": 5050934
+        },
+        {
+          "name": "097_Al-Qadr_spread.pdf",
+          "type": "file",
+          "path": "./Quran/097_Al-Qadr_spread.pdf",
+          "size": 317526
+        },
+        {
+          "name": "097_Qadr-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/097_Qadr-ppt-v2.pdf",
+          "size": 3603814
+        },
+        {
+          "name": "098_Al-Bayyina_spread.pdf",
+          "type": "file",
+          "path": "./Quran/098_Al-Bayyina_spread.pdf",
+          "size": 1781305
+        },
+        {
+          "name": "098_Bayyina-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/098_Bayyina-ppt-v2.pdf",
+          "size": 3950662
+        },
+        {
+          "name": "099_Al-Zilzaal_spread.pdf",
+          "type": "file",
+          "path": "./Quran/099_Al-Zilzaal_spread.pdf",
+          "size": 1682536
+        },
+        {
+          "name": "100_Al-Aadiyaat_spread.pdf",
+          "type": "file",
+          "path": "./Quran/100_Al-Aadiyaat_spread.pdf",
+          "size": 2074215
+        },
+        {
+          "name": "101_Al-Qaariaah_spread.pdf",
+          "type": "file",
+          "path": "./Quran/101_Al-Qaariaah_spread.pdf",
+          "size": 1820810
+        },
+        {
+          "name": "102_Al-Takaathur_spread.pdf",
+          "type": "file",
+          "path": "./Quran/102_Al-Takaathur_spread.pdf",
+          "size": 1729625
+        },
+        {
+          "name": "102_Sura-Al-Takaathur.pdf",
+          "type": "file",
+          "path": "./Quran/102_Sura-Al-Takaathur.pdf",
+          "size": 1601409
+        },
+        {
+          "name": "103_Al-Asr_spread.pdf",
+          "type": "file",
+          "path": "./Quran/103_Al-Asr_spread.pdf",
+          "size": 1713782
+        },
+        {
+          "name": "103_Asr-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/103_Asr-ppt-v2.pdf",
+          "size": 3044831
+        },
+        {
+          "name": "104_Al-Humazaa_spread.pdf",
+          "type": "file",
+          "path": "./Quran/104_Al-Humazaa_spread.pdf",
+          "size": 1600018
+        },
+        {
+          "name": "104_Humazaa_ppt.pdf",
+          "type": "file",
+          "path": "./Quran/104_Humazaa_ppt.pdf",
+          "size": 1591635
+        },
+        {
+          "name": "105_Al-Feel_spread.pdf",
+          "type": "file",
+          "path": "./Quran/105_Al-Feel_spread.pdf",
+          "size": 2139461
+        },
+        {
+          "name": "105_Feel-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/105_Feel-ppt-v2.pdf",
+          "size": 4123226
+        },
+        {
+          "name": "106_Al-Quraysh_spread.pdf",
+          "type": "file",
+          "path": "./Quran/106_Al-Quraysh_spread.pdf",
+          "size": 1923059
+        },
+        {
+          "name": "106_Quraysh_ppt.pdf",
+          "type": "file",
+          "path": "./Quran/106_Quraysh_ppt.pdf",
+          "size": 1389788
+        },
+        {
+          "name": "107_Al-Maaun_spread.pdf",
+          "type": "file",
+          "path": "./Quran/107_Al-Maaun_spread.pdf",
+          "size": 1459028
+        },
+        {
+          "name": "107_Maaun-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/107_Maaun-ppt-v2.pdf",
+          "size": 3652397
+        },
+        {
+          "name": "108_Al-Kawthar_spread.pdf",
+          "type": "file",
+          "path": "./Quran/108_Al-Kawthar_spread.pdf",
+          "size": 2342707
+        },
+        {
+          "name": "108_Kawthar-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/108_Kawthar-ppt-v2.pdf",
+          "size": 3874371
+        },
+        {
+          "name": "109_Al-Kaafirun_spread.pdf",
+          "type": "file",
+          "path": "./Quran/109_Al-Kaafirun_spread.pdf",
+          "size": 1856200
+        },
+        {
+          "name": "110 Al Nasr Publications – QFatima.pdf",
+          "type": "file",
+          "path": "./Quran/110 Al Nasr Publications – QFatima.pdf",
+          "size": 2161921
+        },
+        {
+          "name": "110_Al-Nasr_spread.pdf",
+          "type": "file",
+          "path": "./Quran/110_Al-Nasr_spread.pdf",
+          "size": 1729383
+        },
+        {
+          "name": "111_Al-Lahab-spread.pdf",
+          "type": "file",
+          "path": "./Quran/111_Al-Lahab-spread.pdf",
+          "size": 1698786
+        },
+        {
+          "name": "111_Lahab-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/111_Lahab-ppt-v2.pdf",
+          "size": 3913066
+        },
+        {
+          "name": "112_Al-Ikhlas-spread.pdf",
+          "type": "file",
+          "path": "./Quran/112_Al-Ikhlas-spread.pdf",
+          "size": 1522695
+        },
+        {
+          "name": "112_Ikhlaas-ppt-v2.pdf",
+          "type": "file",
+          "path": "./Quran/112_Ikhlaas-ppt-v2.pdf",
+          "size": 3530594
+        },
+        {
+          "name": "113_Al-Falaq_spread.pdf",
+          "type": "file",
+          "path": "./Quran/113_Al-Falaq_spread.pdf",
+          "size": 1607719
+        },
+        {
+          "name": "114_Al-Naas_spread.pdf",
+          "type": "file",
+          "path": "./Quran/114_Al-Naas_spread.pdf",
+          "size": 1640696
+        },
+        {
+          "name": "Al_Ankabut_Poster.pdf",
+          "type": "file",
+          "path": "./Quran/Al_Ankabut_Poster.pdf",
+          "size": 6227928
+        },
+        {
+          "name": "Ayatul-Birr-window.pdf",
+          "type": "file",
+          "path": "./Quran/Ayatul-Birr-window.pdf",
+          "size": 1126191
+        },
+        {
+          "name": "Ayatul-Ikmaal_5-3.pdf",
+          "type": "file",
+          "path": "./Quran/Ayatul-Ikmaal_5-3.pdf",
+          "size": 381525
+        },
+        {
+          "name": "Ayatul-Kareema.pdf",
+          "type": "file",
+          "path": "./Quran/Ayatul-Kareema.pdf",
+          "size": 705833
+        },
+        {
+          "name": "Ayatul-Mulk.pdf",
+          "type": "file",
+          "path": "./Quran/Ayatul-Mulk.pdf",
+          "size": 734988
+        },
+        {
+          "name": "Ayatush-Shahada.pdf",
+          "type": "file",
+          "path": "./Quran/Ayatush-Shahada.pdf",
+          "size": 744854
+        },
+        {
+          "name": "Ayatut-Tatheer.pdf",
+          "type": "file",
+          "path": "./Quran/Ayatut-Tatheer.pdf",
+          "size": 669439
+        },
+        {
+          "name": "Daily-Recitation-Chart-For-The-5-Prayers.pdf",
+          "type": "file",
+          "path": "./Quran/Daily-Recitation-Chart-For-The-5-Prayers.pdf",
+          "size": 902816
+        },
+        {
+          "name": "Q-City_004-Suwer-Qul_Upload_AA165-v2_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_004-Suwer-Qul_Upload_AA165-v2_Apr2025.pdf",
+          "size": 22410832
+        },
+        {
+          "name": "Q-City_017_Sura-Al-Israa_Upload_AA8-v2_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_017_Sura-Al-Israa_Upload_AA8-v2_Apr2025.pdf",
+          "size": 21022559
+        },
+        {
+          "name": "Q-City_017_Sura-Al-Israa_Workbook_Upload_AA262-v1_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_017_Sura-Al-Israa_Workbook_Upload_AA262-v1_Apr2025.pdf",
+          "size": 12913013
+        },
+        {
+          "name": "Q-City_029_Suratul_Ankabut_Upload_AA235-v2_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_029_Suratul_Ankabut_Upload_AA235-v2_May2020.pdf",
+          "size": 14579627
+        },
+        {
+          "name": "Q-City_036_Sura-Al-Yaasin_Notes_Upload_AA11-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_036_Sura-Al-Yaasin_Notes_Upload_AA11-v1_May2020.pdf",
+          "size": 4709235
+        },
+        {
+          "name": "Q-City_049_Suratul_Hujurat_Upload_AA12-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_049_Suratul_Hujurat_Upload_AA12-v1_May2020.pdf",
+          "size": 15912448
+        },
+        {
+          "name": "Q-City_049_Suratul_Hujurat_Worksheets_Upload_AA13-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_049_Suratul_Hujurat_Worksheets_Upload_AA13-v1_May2020.pdf",
+          "size": 2139993
+        },
+        {
+          "name": "Q-City_054_Al-Qamar-Workbook-webuse-Apr22-AA257.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_054_Al-Qamar-Workbook-webuse-Apr22-AA257.pdf",
+          "size": 13869461
+        },
+        {
+          "name": "Q-City_055_Suratul_Rahmaan_Upload_AA14-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_055_Suratul_Rahmaan_Upload_AA14-v1_May2020.pdf",
+          "size": 5107059
+        },
+        {
+          "name": "Q-City_062-Jumuah_Notes_Upload_AA16-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_062-Jumuah_Notes_Upload_AA16-v1_May2020.pdf",
+          "size": 5035495
+        },
+        {
+          "name": "Q-City_062_My-Suratul-Jumua_Workbook_Upload_AA15-v2_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_062_My-Suratul-Jumua_Workbook_Upload_AA15-v2_Apr2025.pdf",
+          "size": 7715654
+        },
+        {
+          "name": "Q-City_068_Al-Qalam-Workbook-web-Apr23-AA261.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_068_Al-Qalam-Workbook-web-Apr23-AA261.pdf",
+          "size": 32403394
+        },
+        {
+          "name": "Q-City_071-Nuh_Notes_Upload_AA17-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_071-Nuh_Notes_Upload_AA17-v1_May2020.pdf",
+          "size": 4813869
+        },
+        {
+          "name": "Q-City_087-Al-Alaa_Upload_AA18a-v2_March2024.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_087-Al-Alaa_Upload_AA18a-v2_March2024.pdf",
+          "size": 4643347
+        },
+        {
+          "name": "Q-City_087-Al-Alaa_Workbook_Upload_AA263-v2_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_087-Al-Alaa_Workbook_Upload_AA263-v2_Apr2025.pdf",
+          "size": 8111136
+        },
+        {
+          "name": "Q-City_089-Al-Fajr_Upload_AA264-v1_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_089-Al-Fajr_Upload_AA264-v1_Apr2025.pdf",
+          "size": 20958910
+        },
+        {
+          "name": "Q-City_089_Suratul_Fajr_Upload_AA19-v2_Jun2024.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_089_Suratul_Fajr_Upload_AA19-v2_Jun2024.pdf",
+          "size": 4001730
+        },
+        {
+          "name": "Q-City_091-Al-shams_Notes_Upload_AA23-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_091-Al-shams_Notes_Upload_AA23-v1_May2020.pdf",
+          "size": 4479252
+        },
+        {
+          "name": "Q-City_091_Shams_Workbook_Upload_AA24-v2_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_091_Shams_Workbook_Upload_AA24-v2_Apr2025.pdf",
+          "size": 9054273
+        },
+        {
+          "name": "Q-City_093-094-Dhuhaa-Inshiraah_Upload_AA25-v1_Mar2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_093-094-Dhuhaa-Inshiraah_Upload_AA25-v1_Mar2025.pdf",
+          "size": 17488114
+        },
+        {
+          "name": "Q-City_093-094-Dhuhaa-Inshiraah_Workbook_Upload_AA26-v1_Mar2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_093-094-Dhuhaa-Inshiraah_Workbook_Upload_AA26-v1_Mar2025.pdf",
+          "size": 20080295
+        },
+        {
+          "name": "Q-City_095-Teen_Notes_Upload_AA28-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_095-Teen_Notes_Upload_AA28-v1_May2020.pdf",
+          "size": 4663006
+        },
+        {
+          "name": "Q-City_095_-Suratul_Teen_Workbook_Upload_AA27-v2_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_095_-Suratul_Teen_Workbook_Upload_AA27-v2_Apr2025.pdf",
+          "size": 22532296
+        },
+        {
+          "name": "Q-City_096_Suratul_Alaq_Upload_AA29-v2_Feb2024.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_096_Suratul_Alaq_Upload_AA29-v2_Feb2024.pdf",
+          "size": 1817461
+        },
+        {
+          "name": "Q-City_103_Suratul-_Asr_Workbook_Upload_AA31-v2_Apr2025.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_103_Suratul-_Asr_Workbook_Upload_AA31-v2_Apr2025.pdf",
+          "size": 29334172
+        },
+        {
+          "name": "Q-City_105-106_Feel-Quraysh_Upload_AA32-v1_May2020-1.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_105-106_Feel-Quraysh_Upload_AA32-v1_May2020-1.pdf",
+          "size": 8316793
+        },
+        {
+          "name": "Q-City_Qaswa-visits-068-Qalam_AA20-v1_Mar2023.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_Qaswa-visits-068-Qalam_AA20-v1_Mar2023.pdf",
+          "size": 8003093
+        },
+        {
+          "name": "Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_Qaswa_visits_019_Suratu-Maryam_Upload_AA9-v1_May2020.pdf",
+          "size": 6716448
+        },
+        {
+          "name": "Q-City_Qaswa_visits_108_Suratul-Kawthar_Upload_AA33-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_Qaswa_visits_108_Suratul-Kawthar_Upload_AA33-v1_May2020.pdf",
+          "size": 15523754
+        },
+        {
+          "name": "Q-City_Qaswa_visits_112_Suratul-Ikhlas_Upload_AA34-v1_may2020.pdf",
+          "type": "file",
+          "path": "./Quran/Q-City_Qaswa_visits_112_Suratul-Ikhlas_Upload_AA34-v1_may2020.pdf",
+          "size": 13245295
+        },
+        {
+          "name": "QC_Journalling-the-Quran_Upload4.pdf",
+          "type": "file",
+          "path": "./Quran/QC_Journalling-the-Quran_Upload4.pdf",
+          "size": 21623484
+        },
+        {
+          "name": "Q_Learn-to-recite-Quran-AA160-Mar23.pdf",
+          "type": "file",
+          "path": "./Quran/Q_Learn-to-recite-Quran-AA160-Mar23.pdf",
+          "size": 3672597
+        },
+        {
+          "name": "Quran-City-AA103-v2-Oct2024.pdf",
+          "type": "file",
+          "path": "./Quran/Quran-City-AA103-v2-Oct2024.pdf",
+          "size": 20537954
+        },
+        {
+          "name": "Quran-City-Focus-of-each-sura-AA161-Oct2024.pdf",
+          "type": "file",
+          "path": "./Quran/Quran-City-Focus-of-each-sura-AA161-Oct2024.pdf",
+          "size": 16647052
+        },
+        {
+          "name": "Quran-City_Building-inserts_AA102-Oct2024.pdf",
+          "type": "file",
+          "path": "./Quran/Quran-City_Building-inserts_AA102-Oct2024.pdf",
+          "size": 19574809
+        },
+        {
+          "name": "Quran-Recitation-Rewards-Bookmark-V2.pdf",
+          "type": "file",
+          "path": "./Quran/Quran-Recitation-Rewards-Bookmark-V2.pdf",
+          "size": 283743
+        },
+        {
+          "name": "Rule-to-enter-Quran-City-bookmark.pdf",
+          "type": "file",
+          "path": "./Quran/Rule-to-enter-Quran-City-bookmark.pdf",
+          "size": 1857642
+        },
+        {
+          "name": "Stopping_Signs_Bookmark_upload.pdf",
+          "type": "file",
+          "path": "./Quran/Stopping_Signs_Bookmark_upload.pdf",
+          "size": 689767
+        },
+        {
+          "name": "Sura_Al-Qadr_poster.pdf",
+          "type": "file",
+          "path": "./Quran/Sura_Al-Qadr_poster.pdf",
+          "size": 5953343
+        },
+        {
+          "name": "Symmetry-of-Ayatul-Kursi.pdf",
+          "type": "file",
+          "path": "./Quran/Symmetry-of-Ayatul-Kursi.pdf",
+          "size": 1140792
+        },
+        {
+          "name": "Wajib_Sajda_bookmark_upload.pdf",
+          "type": "file",
+          "path": "./Quran/Wajib_Sajda_bookmark_upload.pdf",
+          "size": 612687
+        },
+        {
+          "name": "quran-city-publications",
+          "type": "directory",
+          "path": "./Quran/quran-city-publications",
+          "contents": [
+            {
+              "name": "Q-City-2D-Map-Landscape-Blank-Buildings-WEB.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/Q-City-2D-Map-Landscape-Blank-Buildings-WEB.pdf",
+              "size": 1103945
+            },
+            {
+              "name": "Q-City-2D-Map-Sept2021.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/Q-City-2D-Map-Sept2021.pdf",
+              "size": 1512586
+            },
+            {
+              "name": "QC_Duas-from-the-Quran_Upload_AA74-v1_May2020.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/QC_Duas-from-the-Quran_Upload_AA74-v1_May2020.pdf",
+              "size": 12404990
+            },
+            {
+              "name": "QC_How-to-remember-114_Upload.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/QC_How-to-remember-114_Upload.pdf",
+              "size": 14264701
+            },
+            {
+              "name": "QC_Journalling-the-Quran_Upload4.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/QC_Journalling-the-Quran_Upload4.pdf",
+              "size": 21623484
+            },
+            {
+              "name": "QC_Key-Concepts_Upload_AA166-v1_May2020.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/QC_Key-Concepts_Upload_AA166-v1_May2020.pdf",
+              "size": 3676339
+            },
+            {
+              "name": "QC_The-Benefits-of-Quranic-SuwerAsmaul-Husna_Upload_AA55-v1_May2020.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/QC_The-Benefits-of-Quranic-SuwerAsmaul-Husna_Upload_AA55-v1_May2020.pdf",
+              "size": 3285978
+            },
+            {
+              "name": "QC_The_Last_10_Suwer_of_the_Quran_Upload_AA167-v1_May2020.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/QC_The_Last_10_Suwer_of_the_Quran_Upload_AA167-v1_May2020.pdf",
+              "size": 10101320
+            },
+            {
+              "name": "Quran-City-AA103-v3a-Jan2025.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/Quran-City-AA103-v3a-Jan2025.pdf",
+              "size": 20336939
+            },
+            {
+              "name": "Quran-City-Focus-of-each-sura-AA161-Oct2024.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/Quran-City-Focus-of-each-sura-AA161-Oct2024.pdf",
+              "size": 16647052
+            },
+            {
+              "name": "Quran-City-Suwer-Map-Hexagons.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/Quran-City-Suwer-Map-Hexagons.pdf",
+              "size": 5219001
+            },
+            {
+              "name": "Rule-to-enter-Quran-City-bookmark.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/Rule-to-enter-Quran-City-bookmark.pdf",
+              "size": 1857642
+            },
+            {
+              "name": "Short-focus-of-each-sura.pdf",
+              "type": "file",
+              "path": "./Quran/quran-city-publications/Short-focus-of-each-sura.pdf",
+              "size": 99074
+            }
+          ]
+        },
+        {
+          "name": "sura-aale-imran",
+          "type": "directory",
+          "path": "./Quran/sura-aale-imran",
+          "contents": [
+            {
+              "name": "003_Aali-Imraan_spread.pdf",
+              "type": "file",
+              "path": "./Quran/sura-aale-imran/003_Aali-Imraan_spread.pdf",
+              "size": 782720
+            }
+          ]
+        },
+        {
+          "name": "sura-al-anaam",
+          "type": "directory",
+          "path": "./Quran/sura-al-anaam",
+          "contents": [
+            {
+              "name": "006_-Anaam-ppt-v2.pdf",
+              "type": "file",
+              "path": "./Quran/sura-al-anaam/006_-Anaam-ppt-v2.pdf",
+              "size": 20431620
+            },
+            {
+              "name": "006_Anaam_spread.pdf",
+              "type": "file",
+              "path": "./Quran/sura-al-anaam/006_Anaam_spread.pdf",
+              "size": 1499587
+            }
+          ]
+        },
+        {
+          "name": "sura-baqarah",
+          "type": "directory",
+          "path": "./Quran/sura-baqarah",
+          "contents": [
+            {
+              "name": "002_Baqara_spread.pdf",
+              "type": "file",
+              "path": "./Quran/sura-baqarah/002_Baqara_spread.pdf",
+              "size": 1349373
+            },
+            {
+              "name": "Q-City_002_My-AyatulKursi_AamenarRasul_Workbook_Upload_AA4-v1_May2020.pdf",
+              "type": "file",
+              "path": "./Quran/sura-baqarah/Q-City_002_My-AyatulKursi_AamenarRasul_Workbook_Upload_AA4-v1_May2020.pdf",
+              "size": 4909840
+            },
+            {
+              "name": "Q-City_Qaswa-visits-Birr-Window_Upload_AA5-v1_May2020.pdf",
+              "type": "file",
+              "path": "./Quran/sura-baqarah/Q-City_Qaswa-visits-Birr-Window_Upload_AA5-v1_May2020.pdf",
+              "size": 14188246
+            },
+            {
+              "name": "Symmetry-of-Ayatul-Kursi.pdf",
+              "type": "file",
+              "path": "./Quran/sura-baqarah/Symmetry-of-Ayatul-Kursi.pdf",
+              "size": 1140792
+            }
+          ]
+        },
+        {
+          "name": "sura-fatiha",
+          "type": "directory",
+          "path": "./Quran/sura-fatiha",
+          "contents": [
+            {
+              "name": "001_Al-Faatiha_spread.pdf",
+              "type": "file",
+              "path": "./Quran/sura-fatiha/001_Al-Faatiha_spread.pdf",
+              "size": 2216015
+            },
+            {
+              "name": "001_Faatiha-ppt-v2.pdf",
+              "type": "file",
+              "path": "./Quran/sura-fatiha/001_Faatiha-ppt-v2.pdf",
+              "size": 3393223
+            },
+            {
+              "name": "Q-City_001_Fatiha_Upload_AA2-v1_Apr2025.pdf",
+              "type": "file",
+              "path": "./Quran/sura-fatiha/Q-City_001_Fatiha_Upload_AA2-v1_Apr2025.pdf",
+              "size": 10995513
+            },
+            {
+              "name": "Q-City_001_Fatiha_Workbook_Upload_AA22-v1_Apr2025.pdf",
+              "type": "file",
+              "path": "./Quran/sura-fatiha/Q-City_001_Fatiha_Workbook_Upload_AA22-v1_Apr2025.pdf",
+              "size": 12505085
+            },
+            {
+              "name": "Q-City_Qaswa_visits_001_Suratul-Fatiha_Upload_AA1-v2_Sep2024.pdf",
+              "type": "file",
+              "path": "./Quran/sura-fatiha/Q-City_Qaswa_visits_001_Suratul-Fatiha_Upload_AA1-v2_Sep2024.pdf",
+              "size": 6391048
+            }
+          ]
+        },
+        {
+          "name": "suwer mnemonics publications",
+          "type": "directory",
+          "path": "./Quran/suwer mnemonics publications",
+          "contents": [
+            {
+              "name": "QC_How-to-remember-114-Chapters-names-upload-AA116-Feb2024.pdf",
+              "type": "file",
+              "path": "./Quran/suwer mnemonics publications/QC_How-to-remember-114-Chapters-names-upload-AA116-Feb2024.pdf",
+              "size": 29472533
+            },
+            {
+              "name": "Quran-City-Suwer-Map-Hexagons.pdf",
+              "type": "file",
+              "path": "./Quran/suwer mnemonics publications/Quran-City-Suwer-Map-Hexagons.pdf",
+              "size": 5219001
+            },
+            {
+              "name": "Quran-Mnemonics-Poster-A3-v3-Jan25.pdf",
+              "type": "file",
+              "path": "./Quran/suwer mnemonics publications/Quran-Mnemonics-Poster-A3-v3-Jan25.pdf",
+              "size": 9438378
+            },
+            {
+              "name": "Quran-Mnemonics-ppt.pdf",
+              "type": "file",
+              "path": "./Quran/suwer mnemonics publications/Quran-Mnemonics-ppt.pdf",
+              "size": 3087860
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Salaat",
+      "type": "directory",
+      "path": "./Salaat",
+      "contents": [
+        {
+          "name": "A-Z_of_Salaa_Worksheets.pdf",
+          "type": "file",
+          "path": "./Salaat/A-Z_of_Salaa_Worksheets.pdf",
+          "size": 4087640
+        },
+        {
+          "name": "Intro-to-salaa_ppt.pdf",
+          "type": "file",
+          "path": "./Salaat/Intro-to-salaa_ppt.pdf",
+          "size": 4528654
+        },
+        {
+          "name": "Salaa_Pre-requisites-Cloth_ppt.pdf",
+          "type": "file",
+          "path": "./Salaat/Salaa_Pre-requisites-Cloth_ppt.pdf",
+          "size": 1511224
+        },
+        {
+          "name": "Salaa_Pre-requisites-Time_ppt.pdf",
+          "type": "file",
+          "path": "./Salaat/Salaa_Pre-requisites-Time_ppt.pdf",
+          "size": 4332687
+        },
+        {
+          "name": "Salaa_Pre-requisites_Palce-Direction_ppt.pdf",
+          "type": "file",
+          "path": "./Salaat/Salaa_Pre-requisites_Palce-Direction_ppt.pdf",
+          "size": 1583913
+        },
+        {
+          "name": "Salaa_Quiz-ppt.pdf",
+          "type": "file",
+          "path": "./Salaat/Salaa_Quiz-ppt.pdf",
+          "size": 8492317
+        },
+        {
+          "name": "Salaa_Upload_AA182-v1_may2020.pdf",
+          "type": "file",
+          "path": "./Salaat/Salaa_Upload_AA182-v1_may2020.pdf",
+          "size": 674333
+        },
+        {
+          "name": "Salatul-Layl_Upload_AA181-v3_Jun2024.pdf",
+          "type": "file",
+          "path": "./Salaat/Salatul-Layl_Upload_AA181-v3_Jun2024.pdf",
+          "size": 31311707
+        },
+        {
+          "name": "Taqibaat_Upload_AA191-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Salaat/Taqibaat_Upload_AA191-v1_May2020.pdf",
+          "size": 1314381
+        },
+        {
+          "name": "The_A-Z_of_Salaa.pdf",
+          "type": "file",
+          "path": "./Salaat/The_A-Z_of_Salaa.pdf",
+          "size": 6571716
+        },
+        {
+          "name": "Waajibaat-of-Salaa-ppt.pdf",
+          "type": "file",
+          "path": "./Salaat/Waajibaat-of-Salaa-ppt.pdf",
+          "size": 4248689
+        },
+        {
+          "name": "Wudhoo-Salaa_Assessment_Upload_AA221-v1_May2020.pdf",
+          "type": "file",
+          "path": "./Salaat/Wudhoo-Salaa_Assessment_Upload_AA221-v1_May2020.pdf",
+          "size": 2130514
+        }
+      ]
+    },
+    {
+      "name": "Teaching Resources",
+      "type": "directory",
+      "path": "./Teaching Resources",
+      "contents": [
+        {
+          "name": "BELIEFS AND JURISPRUDENCE TEACHING RESOURCES ",
+          "type": "directory",
+          "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES ",
+          "contents": [
+            {
+              "name": "A-Z_of_Salaa_Worksheets.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /A-Z_of_Salaa_Worksheets.pdf",
+              "size": 4087640
+            },
+            {
+              "name": "Dietary_Laws_Food-glorious-food_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Dietary_Laws_Food-glorious-food_ppt.pdf",
+              "size": 5990971
+            },
+            {
+              "name": "Etiquettes_of_eating-Mustahab-Acts_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Etiquettes_of_eating-Mustahab-Acts_ppt.pdf",
+              "size": 5015890
+            },
+            {
+              "name": "Etiquettes_of_eating_discouraged-acts_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Etiquettes_of_eating_discouraged-acts_ppt.pdf",
+              "size": 4756203
+            },
+            {
+              "name": "Furu-e-Deen-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Furu-e-Deen-ppt.pdf",
+              "size": 7423688
+            },
+            {
+              "name": "Hajj-ppt_Aug20.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Hajj-ppt_Aug20.pdf",
+              "size": 4167747
+            },
+            {
+              "name": "Intro-to-salaa_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Intro-to-salaa_ppt.pdf",
+              "size": 4528654
+            },
+            {
+              "name": "Q-Jurisprudence_Schemes-of-Work_A5_Web.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Q-Jurisprudence_Schemes-of-Work_A5_Web.pdf",
+              "size": 1991910
+            },
+            {
+              "name": "QProphets-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /QProphets-ppt.pdf",
+              "size": 8759096
+            },
+            {
+              "name": "Salaa_Pre-requisites-Cloth_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Salaa_Pre-requisites-Cloth_ppt.pdf",
+              "size": 1511224
+            },
+            {
+              "name": "Salaa_Pre-requisites-Time_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Salaa_Pre-requisites-Time_ppt.pdf",
+              "size": 4332687
+            },
+            {
+              "name": "Salaa_Pre-requisites_Palce-Direction_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Salaa_Pre-requisites_Palce-Direction_ppt.pdf",
+              "size": 1583913
+            },
+            {
+              "name": "Salaa_Quiz-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Salaa_Quiz-ppt.pdf",
+              "size": 8492317
+            },
+            {
+              "name": "Salawaat-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Salawaat-ppt.pdf",
+              "size": 2746043
+            },
+            {
+              "name": "Tahara-Ghusl-part-2-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Tahara-Ghusl-part-2-ppt.pdf",
+              "size": 5961832
+            },
+            {
+              "name": "Tahara-Ghusl-part1-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Tahara-Ghusl-part1-ppt.pdf",
+              "size": 2765763
+            },
+            {
+              "name": "Tahara-How-to-do-Wudhoo_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Tahara-How-to-do-Wudhoo_ppt.pdf",
+              "size": 5005423
+            },
+            {
+              "name": "Tahara-When-is-Wudhoo-Wajib.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Tahara-When-is-Wudhoo-Wajib.pdf",
+              "size": 8000022
+            },
+            {
+              "name": "Tahara_Tayammum_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Tahara_Tayammum_ppt.pdf",
+              "size": 3239756
+            },
+            {
+              "name": "Taqleed-Powepoint.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Taqleed-Powepoint.pdf",
+              "size": 2570894
+            },
+            {
+              "name": "Teaching_Jurisprudence_Upload_AA231-v3_Sep2024.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Teaching_Jurisprudence_Upload_AA231-v3_Sep2024.pdf",
+              "size": 23918363
+            },
+            {
+              "name": "Using-the-Risala_Quiz-ppt-.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Using-the-Risala_Quiz-ppt-.pdf",
+              "size": 4976463
+            },
+            {
+              "name": "Using-the-risala-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Using-the-risala-ppt.pdf",
+              "size": 6096886
+            },
+            {
+              "name": "Usool-e-Deen-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Usool-e-Deen-ppt.pdf",
+              "size": 5458854
+            },
+            {
+              "name": "Waajibaat-of-Salaa-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/BELIEFS AND JURISPRUDENCE TEACHING RESOURCES /Waajibaat-of-Salaa-ppt.pdf",
+              "size": 4248689
+            }
+          ]
+        },
+        {
+          "name": "CROSS CURRICULAR TEACHING RESOURCES ",
+          "type": "directory",
+          "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES ",
+          "contents": [
+            {
+              "name": "08-Shaban-Sermon-of-the-Prophet-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /08-Shaban-Sermon-of-the-Prophet-ppt.pdf",
+              "size": 4483662
+            },
+            {
+              "name": "09-Month-of-Ramadhan-Rules-of-Fasting.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /09-Month-of-Ramadhan-Rules-of-Fasting.pdf",
+              "size": 2876009
+            },
+            {
+              "name": "09-Month-of-Ramadhan-at-a-glance.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /09-Month-of-Ramadhan-at-a-glance.pdf",
+              "size": 6291561
+            },
+            {
+              "name": "Brave-Women-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Brave-Women-ppt.pdf",
+              "size": 6580635
+            },
+            {
+              "name": "Foods-in-the-Quran.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Foods-in-the-Quran.pdf",
+              "size": 3211395
+            },
+            {
+              "name": "Hazrat-Abbas-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Hazrat-Abbas-ppt.pdf",
+              "size": 5366056
+            },
+            {
+              "name": "Imam-Ali-pbuh-QSchool-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Imam-Ali-pbuh-QSchool-ppt.pdf",
+              "size": 2051989
+            },
+            {
+              "name": "Imam-Mahdi-pbuh-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Imam-Mahdi-pbuh-ppt.pdf",
+              "size": 8685900
+            },
+            {
+              "name": "Life-Prophet-Musa-PPT.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Life-Prophet-Musa-PPT.pdf",
+              "size": 5110546
+            },
+            {
+              "name": "Month-of-Dhulhijja-PPT.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Month-of-Dhulhijja-PPT.pdf",
+              "size": 5184875
+            },
+            {
+              "name": "Nahjul-Balagha-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Nahjul-Balagha-ppt.pdf",
+              "size": 3259876
+            },
+            {
+              "name": "PROPHET-MUSA-TIMELINE-.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /PROPHET-MUSA-TIMELINE-.pdf",
+              "size": 2936943
+            },
+            {
+              "name": "Phases-of-the-moon.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Phases-of-the-moon.pdf",
+              "size": 1397073
+            },
+            {
+              "name": "Prophet-Muhammad-Quiz.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Prophet-Muhammad-Quiz.pdf",
+              "size": 5899313
+            },
+            {
+              "name": "Prophet-Musa-Part1-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Prophet-Musa-Part1-ppt.pdf",
+              "size": 4095579
+            },
+            {
+              "name": "Prophet-Musa-Part2-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Prophet-Musa-Part2-ppt.pdf",
+              "size": 4642290
+            },
+            {
+              "name": "Q-Calendar-03_Rabi-ul-Awwal-Prophet-Muhammed.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar-03_Rabi-ul-Awwal-Prophet-Muhammed.pdf",
+              "size": 7809459
+            },
+            {
+              "name": "Q-Calendar-03_Rabi-ul-Awwal_Imam-Sadiq.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar-03_Rabi-ul-Awwal_Imam-Sadiq.pdf",
+              "size": 1897896
+            },
+            {
+              "name": "Q-Calendar-03_Rabi-ul-Awwal_Timeline-Rasulullah-to-Imam-Sadiq.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar-03_Rabi-ul-Awwal_Timeline-Rasulullah-to-Imam-Sadiq.pdf",
+              "size": 1345480
+            },
+            {
+              "name": "Q-Calendar-04-Rabi-ul-Akher_Imam-Hasan-Askery.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar-04-Rabi-ul-Akher_Imam-Hasan-Askery.pdf",
+              "size": 2475290
+            },
+            {
+              "name": "Q-Calendar-Schemes-of-Work-A5_Web_13-08-2020.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar-Schemes-of-Work-A5_Web_13-08-2020.pdf",
+              "size": 7929264
+            },
+            {
+              "name": "Q-Calendar_05-Jamad-ul-Awwal_Sayyida-Zaynab.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar_05-Jamad-ul-Awwal_Sayyida-Zaynab.pdf",
+              "size": 9193624
+            },
+            {
+              "name": "Q-Calendar_05_Women-in-the-Quran_ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar_05_Women-in-the-Quran_ppt.pdf",
+              "size": 5242535
+            },
+            {
+              "name": "Q-Calendar_Rajab-at-a-glance.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Q-Calendar_Rajab-at-a-glance.pdf",
+              "size": 17636060
+            },
+            {
+              "name": "QCalendar-03_Rabi-ul-Awwal-at-a-glance.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /QCalendar-03_Rabi-ul-Awwal-at-a-glance.pdf",
+              "size": 1799360
+            },
+            {
+              "name": "QCalendar_08-Shaban_Imam-Husaynpbuh.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /QCalendar_08-Shaban_Imam-Husaynpbuh.pdf",
+              "size": 6872279
+            },
+            {
+              "name": "Qcalendar_08-Shaban_Imam-Zaynul-Abideen.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Qcalendar_08-Shaban_Imam-Zaynul-Abideen.pdf",
+              "size": 7722074
+            },
+            {
+              "name": "Sayyida-Fatima-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Sayyida-Fatima-ppt.pdf",
+              "size": 8985022
+            },
+            {
+              "name": "Shaban-at-a-Glance-ppt.pdf",
+              "type": "file",
+              "path": "./Teaching Resources/CROSS CURRICULAR TEACHING RESOURCES /Shaban-at-a-Glance-ppt.pdf",
+              "size": 2001589
+            }
+          ]
+        },
+        {
+          "name": "Lesson-planning1.pdf",
+          "type": "file",
+          "path": "./Teaching Resources/Lesson-planning1.pdf",
+          "size": 532873
+        },
+        {
+          "name": "Lesson-planning2_Starter-activities.pdf",
+          "type": "file",
+          "path": "./Teaching Resources/Lesson-planning2_Starter-activities.pdf",
+          "size": 273257
+        },
+        {
+          "name": "Lesson-planning3-.pdf",
+          "type": "file",
+          "path": "./Teaching Resources/Lesson-planning3-.pdf",
+          "size": 461155
+        }
+      ]
     }
   ]
 }

@@ -10,18 +10,18 @@
 - [ ] Test the script locally to ensure it handles nested directories and spaces in filenames.
 
 ## Phase 3: GitHub Actions Workflow (Infrastructure)
-- [ ] Create `.github/workflows/deploy.yml`.
-- [ ] Step 1: Generate metadata.
-- [ ] Step 2: Zip the entire directory structure into `activity-books-full.zip`.
-- [ ] Step 3: Use a Release action to upload the zip to a `latest` release tag.
-- [ ] Step 4: Build/Deploy the frontend to GitHub Pages.
+- [x] Create `.github/workflows/deploy.yml`.
+- [x] Step 1: Generate metadata.
+- [x] Step 2: Create individual zips for each top-level category.
+- [x] Step 3: Use a Release action to upload category zips to a `latest` release tag.
+- [x] Step 4: Build/Deploy the frontend to GitHub Pages.
 
 ## Phase 4: Frontend Development (Design & Code)
-- [ ] Set up basic HTML/Tailwind structure.
-- [ ] Implement the "Editorial" design (Serif fonts, clean layout).
-- [ ] Fetch `metadata.json` and render the file browser.
-- [ ] Add the "Download All" button pointing to the Release URL.
-- [ ] Add the "Iltemase Dua" footer.
+- [x] Set up basic HTML/Tailwind structure.
+- [x] Implement the "Editorial" design (Serif fonts, clean layout).
+- [x] Fetch `metadata.json` and render the file browser.
+- [x] Implement conditional download logic (CDN vs Raw based on size).
+- [x] Add the "Iltemase Dua" footer.
 
 ## Phase 5: Verification & Launch
 - [ ] Push to GitHub and verify Actions run successfully.

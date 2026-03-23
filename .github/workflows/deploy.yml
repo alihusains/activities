@@ -30,9 +30,6 @@ jobs:
 
       - name: Zip Folder Structure
         run: |
-          # Zip the entire repo
-          zip -r activity-books-full.zip . -x "*.git*" "*.github*" "generate_metadata.py" "task_plan.md" "findings.md" "progress.md" ".DS_Store" "node_modules/*"
-
           # Create individual zips for top-level folders
           # This assumes users want to download folders like "4-7 years"
           for d in */; do
@@ -47,7 +44,6 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            activity-books-full.zip
             *.zip
           tag_name: latest
           name: Latest Release
