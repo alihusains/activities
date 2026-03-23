@@ -177,15 +177,20 @@
                 breadcrumb.innerHTML += `<span class="breadcrumb-item ${isLast ? 'text-white' : 'cursor-pointer'}" onclick="${isLast ? '' : `window.location.hash='${breadPath.join('/')}'`}">${step.toUpperCase()}</span>`;
             });
 
-            if (currentPath.length > 0) {
+            // Download Folder Button (Only for Top-Level categories as they are the only ones zipped)
+            if (currentPath.length === 1) {
                 downloadFolderBtn.classList.remove('hidden');
-                const folderName = currentPath[currentPath.length - 1];
+                const folderName = currentPath[0];
                 const zipName = folderName.toLowerCase()
                     .replace(/[^a-z0-9]+/g, '-')
                     .replace(/^-+|-+$/g, '') + '.zip';
 
                 downloadFolderBtn.onclick = (e) => {
                     e.preventDefault();
+                    const btnText = downloadFolderBtn.querySelector('span');
+                    const originalText = btnText.innerText;
+                    btnText.innerText = 'Requesting...';
+
                     const url = `https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/latest/${zipName}`;
                     console.log(`Triggering download for: ${url}`);
 
@@ -195,7 +200,11 @@
                     link.style.display = 'none';
                     document.body.appendChild(link);
                     link.click();
-                    setTimeout(() => document.body.removeChild(link), 100);
+
+                    setTimeout(() => {
+                        document.body.removeChild(link);
+                        btnText.innerText = originalText;
+                    }, 2000);
                 };
             } else {
                 downloadFolderBtn.classList.add('hidden');
