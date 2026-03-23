@@ -13,7 +13,7 @@
 - [x] Create `.github/workflows/deploy.yml`.
 - [x] Step 1: Generate metadata.
 - [x] Step 2: Create individual zips for each top-level category.
-- [x] Step 3: Use a Release action to upload category zips to a `latest` release tag.
+- [x] Step 3: Use a Release action to upload category zips (supports `latest` on push and specific tags on `v*`).
 - [x] Step 4: Build/Deploy the frontend to GitHub Pages.
 
 ## Phase 4: Frontend Development (Design & Code)

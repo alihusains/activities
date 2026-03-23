@@ -7,6 +7,4 @@
 - [x] Implemented conditional download logic for individual files:
     - Files < 20MB: Direct download from GitHub Pages/CDN.
     - Files >= 20MB: Download from `raw.githubusercontent.com`.
-- [x] Removed "Full Library" download button from UI.
-- [x] Regenerated `metadata.json` to include file sizes.
-- [ ] Next: Push changes and verify deployment.
+- [x] Enabled tag-based releases (`v*`) in addition to the automated `latest` release on push.
