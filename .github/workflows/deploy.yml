@@ -1,0 +1,58 @@
+name: Generate, Release and Deploy
+
+on:
+  push:
+    branches:
+      - main
+      - master # Handle both common main branch names
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate metadata.json
+        run: python3 generate_metadata.py
+
+      - name: Zip repository contents
+        run: |
+          zip -r activity-books-full.zip . -x "*.git*" "*.github*" "generate_metadata.py" "task_plan.md" "findings.md" "progress.md" ".DS_Store"
+
+      - name: Create Release and Upload Asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: activity-books-full.zip
+          tag_name: latest
+          name: Latest Release
+          body: "Automatic update of all activity books and directory structure."
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload everything including index.html and metadata.json
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
